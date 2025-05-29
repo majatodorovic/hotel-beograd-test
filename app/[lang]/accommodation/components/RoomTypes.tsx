@@ -11,7 +11,10 @@ import { Navigation, Virtual } from "swiper/modules";
 export default function RoomTypes({ data }: any) {
   const [lightbox, setLightBox] = useState<any>(null);
   return (
-    <section className=" flex justify-center px-6 md:px-8 2xl:px-12 pt-20">
+    <section
+      id="roomTypes"
+      className=" flex justify-center px-6 md:px-8 2xl:px-12 pt-20"
+    >
       <div className="w-full md:max-w-4xl xl:max-w-none 2xl:max-w-[1612px]">
         <Swiper
           slidesPerView={1}

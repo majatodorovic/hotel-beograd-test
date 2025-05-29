@@ -68,7 +68,7 @@ export default function Accommodation({ data, lang }: any) {
                   className="flex flex-col items-start w-full h-full relative group overflow-hidden hover:cursor-pointer"
                   onClick={() => {
                     if (slide.active) {
-                      router.push(`/${lang}/accommodation`);
+                      router.push(`/${lang}/accommodation#roomTypes`);
                     } else {
                       const slidesCopy = [...slides];
                       slidesCopy[index].active = true;
