@@ -1,0 +1,18 @@
+{
+  "title": "Gallery - Hotel Beograd",
+  "description": "Browse the image gallery and discover the ambiance you can enjoy during your stay at Hotel Beograd",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Gallery - Hotel Beograd",
+    "description": "Browse the image gallery and discover the ambiance you can enjoy during your stay at Hotel Beograd",
+    "images": [
+      {
+        "url": "/images/gallery/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Gallery page banner"
+      }
+    ],
+    "type": "website"
+  }
+}

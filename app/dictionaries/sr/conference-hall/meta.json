@@ -1,0 +1,18 @@
+{
+  "title": "Konferencijska sala - Hotel Beograd",
+  "description": "Hotel Beograd nudi modernu kongresnu salu kapaciteta do 60 osoba, savršenu za konferencije, seminare, poslovne sastanke i druge profesionalne događaje.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Konferencijska sala - Hotel Beograd",
+    "description": "Hotel Beograd nudi modernu kongresnu salu kapaciteta do 60 osoba, savršenu za konferencije, seminare, poslovne sastanke i druge profesionalne događaje.",
+    "images": [
+      {
+        "url": "/images/conference-hall/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Stranica Konferencijska sala baner"
+      }
+    ],
+    "type": "website"
+  }
+}

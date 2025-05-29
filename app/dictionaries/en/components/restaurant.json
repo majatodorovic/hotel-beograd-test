@@ -1,0 +1,394 @@
+{
+  "heading": "Menu of Hotel Belgrade",
+  "items": [
+    {
+      "categories": [
+        {
+          "category": "COLD STARTERS",
+          "items": [
+            {
+              "name": "Cold Platter - HB",
+              "description": "/prosciutto, beef prosciutto, Dalmatian prosciutto, ham, kashkaval, olives, marinated mushrooms/\n"
+            },
+            {
+              "name": "Dalmatian Prosciutto, 100g"
+            },
+            {
+              "name": "Beef Prosciutto, 100g"
+            },
+            {
+              "name": "Pork Prosciutto, 100g"
+            },
+            { "name": "Tartar Steak, 300g" },
+            {
+              "name": "Caprese Salad",
+              "description": "/mozzarella, tomato, olive oil, basil/\n"
+            },
+            { "name": "Chef's Salad" },
+            {
+              "name": "Olives",
+              "description": "/multiple varieties of Greek olives/\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SOUPS / STEWS / PUREES",
+          "items": [
+            {
+              "name": "Veal Soup"
+            },
+            {
+              "name": "Chicken Soup"
+            },
+            {
+              "name": "Vegetable Puree Soup"
+            },
+            {
+              "name": "Pumpkin Soup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "HOT STARTERS",
+          "items": [
+            {
+              "name": "Vegetarian Plate, 250g",
+              "description": "/grilled vegetables/\n"
+            },
+            {
+              "name": "Grilled Mushrooms, 300g"
+            },
+            {
+              "name": "Mediterranean Salad, serving",
+              "description": "/squid, bacon, vegetables, parmesan/\n"
+            },
+            { "name": "Breaded Chanterelle Mushrooms with Basil Sauce, 200g" },
+            {
+              "name": "Tagliatelle with Pesto Sauce, Prosciutto, and Chicken, serving"
+            },
+            { "name": "Stuffed Pancakes, serving" },
+            { "name": "Breaded Cheese, serving" }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "STEWED DISHES / SIDE DISHES",
+          "items": [
+            {
+              "name": "Stew (choice), serving"
+            },
+            {
+              "name": "French Fries, serving"
+            }
+          ]
+        },
+        {
+          "category": "FISH AND SEAFOOD",
+          "items": [
+            {
+              "name": "Trout, kg"
+            },
+            {
+              "name": "Smoked Trout, 300g fillet"
+            },
+            {
+              "name": "Perch in White Wine, kg"
+            },
+            {
+              "name": "Smoked Carp, 300g"
+            },
+            {
+              "name": "Catfish Fillet, 300g"
+            },
+            {
+              "name": "Sea Bream, kg"
+            },
+            {
+              "name": "Branzino, kg"
+            },
+            {
+              "name": "Grilled or Breaded Squid with Dalmatian Stew, 300g"
+            },
+            {
+              "name": "Mediterranean Plate, 450g"
+            },
+            {
+              "name": "Seafood Salad, 300g"
+            },
+            {
+              "name": "Seafood Risotto, 300g"
+            },
+            { "name": "Grilled Salmon Fillet" }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SPECIAL ORDER DISHES",
+          "items": [
+            {
+              "name": "Wiener Schnitzel, 300g"
+            },
+            {
+              "name": "Veal Natural Schnitzel, 300g"
+            },
+            {
+              "name": "Veal Schnitzel with Mushroom Sauce, 300g"
+            },
+            {
+              "name": "Baked Veal Schnitzel with Ham and Mozzarella, 300g"
+            },
+            {
+              "name": "Karađorđeva Schnitzel, serving"
+            },
+            {
+              "name": "Homemade Beefsteak, 300g",
+              "description": "/with roasted potatoes, cream, mushrooms/\n"
+            },
+            {
+              "name": "Grilled Beefsteak, 300g",
+              "description": "/gorgonzola sauce, or green pepper sauce, or porcini sauce, or fries and grilled vegetables/\n"
+            },
+            {
+              "name": "Medallions in Mushroom Sauce, serving"
+            },
+            {
+              "name": "Filet Mignon in Porcini Sauce, 300g"
+            },
+            {
+              "name": "Turkey Medallions in Blue Cheese Sauce, 300g"
+            },
+            {
+              "name": "Turkey Fillets in Porcini Sauce, 300g"
+            },
+            { "name": "Turkey with Mlinci, 300g" },
+            { "name": "Chicken in Curry Sauce, 300g" },
+            { "name": "Chicken Breasts in Soy Sauce and Honey, 300g" },
+            { "name": "Chicken in Chinese Style, serving" }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SALADS AS A MEAL",
+          "items": [
+            {
+              "name": "Caesar Salad"
+            },
+            {
+              "name": "Chicken Salad"
+            },
+            {
+              "name": "Hot Beefsteak Salad"
+            },
+            {
+              "name": "Formađo Salad"
+            },
+            {
+              "name": "Tuna Salad"
+            },
+            {
+              "name": "Spicy Mexican Salad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "GRILLED DISHES",
+          "items": [
+            {
+              "name": "Ćevapi, 10 pieces"
+            },
+            {
+              "name": "Pljeskavica, 300g"
+            },
+            {
+              "name": "Stuffed Pljeskavica, serving"
+            },
+            {
+              "name": "Pljeskavica with Cream, 300g"
+            },
+            {
+              "name": "Homemade Sausage, 300g"
+            },
+            {
+              "name": "Leskovac Uštipak, 10 pieces"
+            },
+            {
+              "name": "White Vešalica, 300g"
+            },
+            {
+              "name": "Mixed Grilled Meat, 450g"
+            },
+            {
+              "name": "Stuffed White Vešalica, 300g"
+            },
+            {
+              "name": "Grilled Chicken Fillet, 300g"
+            },
+            {
+              "name": "Stuffed Chicken Fillet, 300g"
+            },
+            {
+              "name": "Grilled Chicken Skewers, 300g"
+            },
+            {
+              "name": "Stuffed Chicken Skewers, 300g"
+            },
+            {
+              "name": "Veal Ćulbastija, 300g"
+            },
+            {
+              "name": "Zlatibor Stew, serving"
+            },
+            {
+              "name": "Stuffed Pork Fillet in Bacon, serving"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SALADS",
+          "items": [
+            {
+              "name": "Greek Salad"
+            },
+            {
+              "name": "Shopska"
+            },
+            {
+              "name": "Serbian Salad"
+            },
+            {
+              "name": "Mixed Fresh Seasonal Salad"
+            },
+            {
+              "name": "Tomato Salad"
+            },
+            {
+              "name": "Cucumber Salad"
+            },
+            {
+              "name": "Green Salad"
+            },
+            {
+              "name": "Cabbage Salad"
+            },
+            {
+              "name": "Pepper in Sour Cream, serving"
+            },
+            {
+              "name": "Roasted Pepper with Garlic"
+            },
+            {
+              "name": "Hot Pepper, piece"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "CHEESES",
+          "items": [
+            {
+              "name": "Selection of Foreign Cheeses"
+            },
+            {
+              "name": "Čačak Cheese"
+            },
+            {
+              "name": "Čačak Kajmak"
+            },
+            {
+              "name": "Feta Cheese"
+            },
+            {
+              "name": "Cheese in Oil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "DESSERTS",
+          "items": [
+            {
+              "name": "Baklava"
+            },
+            {
+              "name": "Chef's Cake"
+            },
+            {
+              "name": "Ice Cream, scoop"
+            },
+            {
+              "name": "Wheat with Whipped Cream"
+            },
+            {
+              "name": "Pancakes to Order",
+              "description": "/jam, honey, cream, walnuts/\n"
+            },
+            {
+              "name": "Pancakes in Wine Sauce for Two"
+            },
+            {
+              "name": "Fruit Salad"
+            },
+            {
+              "name": "Tufahija"
+            },
+            {
+              "name": "Cheese Pie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "BREADS",
+          "items": [
+            {
+              "name": "Flatbread, piece"
+            },
+            {
+              "name": "Whole wheat flatbread, piece"
+            },
+            {
+              "name": "Cornbread, piece"
+            },
+            {
+              "name": "Toast bread, piece"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

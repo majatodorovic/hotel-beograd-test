@@ -1,0 +1,18 @@
+{
+  "title": "Sadržaji - Hotel Beograd",
+  "description": "Čačak je grad bogate istorije, prirodnih lepota i kulturnih znamenitosti, koji kroz vekove priča svoju jedinstvenu priču.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Sadržaji - Hotel Beograd",
+    "description": "Čačak je grad bogate istorije, prirodnih lepota i kulturnih znamenitosti, koji kroz vekove priča svoju jedinstvenu priču.",
+    "images": [
+      {
+        "url": "/images/attractions/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Stranica Sadržaji baner"
+      }
+    ],
+    "type": "website"
+  }
+}

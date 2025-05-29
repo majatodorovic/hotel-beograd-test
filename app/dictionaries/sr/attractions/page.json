@@ -1,0 +1,14 @@
+{
+  "intro": {
+    "img": "/images/attractions/intro-image.jpg",
+    "subheading": "Dođite i istražite sve čari Čačka – grad koji spaja istoriju, kulturu i prirodne lepote!",
+    "heading": "Šta posetiti dok ste u Čačku?",
+    "paragraphs": [
+      "Čačak je grad bogate istorije, prirodnih lepota i kulturnih znamenitosti, koji kroz vekove priča svoju jedinstvenu priču. Smešten u slikovitoj dolini između planina Ovčar i Kablar, ovaj grad je savršena destinacija za ljubitelje istorije, prirode i tradicije. Bilo da želite da istražujete kulturne spomenike, uživate u netaknutoj prirodi ili jednostavno opustite u nekom od brojnih parkova, Čačak nudi nešto za svakog posetioca. Njegova autentična atmosfera i gostoljubivost stanovnika učiniće da se osećate kao kod kuće.",
+      "Evo nekoliko preporuka za mesta koja obavezno treba da posetite:"
+    ]
+  },
+  "attractions": {
+    "linkText": "Putanja"
+  }
+}

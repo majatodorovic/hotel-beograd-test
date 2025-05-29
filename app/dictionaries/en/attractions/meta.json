@@ -1,0 +1,18 @@
+{
+  "title": "Amenities - Hotel Beograd",
+  "description": "Čačak is a city with a rich history, natural beauty, and cultural landmarks, telling its unique story through the centuries.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Amenities - Hotel Beograd",
+    "description": "Čačak is a city with a rich history, natural beauty, and cultural landmarks, telling its unique story through the centuries.",
+    "images": [
+      {
+        "url": "/images/attractions/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Amenities Page Banner"
+      }
+    ],
+    "type": "website"
+  }
+}

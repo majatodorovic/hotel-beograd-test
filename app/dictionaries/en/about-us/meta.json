@@ -1,0 +1,18 @@
+{
+  "title": "About Us - Hotel Beograd",
+  "description": "Hotel Beograd offers comfortable and luxurious accommodation. Our rooms and apartments are equipped with modern amenities, providing you with the perfect rest.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "About Us - Hotel Beograd",
+    "description": "Hotel Beograd offers comfortable and luxurious accommodation. Our rooms and apartments are equipped with modern amenities, providing you with the perfect rest.",
+    "images": [
+      {
+        "url": "/images/about-us/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "About Us page banner"
+      }
+    ],
+    "type": "website"
+  }
+}

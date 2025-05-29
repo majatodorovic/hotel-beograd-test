@@ -1,0 +1,18 @@
+{
+  "title": "Conference Center - Hotel Beograd",
+  "description": "Hotel Beograd offers a modern conference room with a capacity of up to 60 people, perfect for conferences, seminars, business meetings, and other professional events.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Conference Center - Hotel Beograd",
+    "description": "Hotel Beograd offers a modern conference room with a capacity of up to 60 people, perfect for conferences, seminars, business meetings, and other professional events.",
+    "images": [
+      {
+        "url": "/images/conference-hall/intro-image.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Conference Center Page Banner"
+      }
+    ],
+    "type": "website"
+  }
+}

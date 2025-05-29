@@ -1,0 +1,14 @@
+{
+  "intro": {
+    "img": "/images/attractions/intro-image.jpg",
+    "subheading": "Come and explore all the charms of Čačak – a city that blends history, culture, and natural beauty!",
+    "heading": "What to visit while in Čačak?",
+    "paragraphs": [
+      "Čačak is a city with a rich history, natural beauty, and cultural landmarks, telling its unique story through the centuries. Located in a picturesque valley between the Ovčar and Kablar mountains, this city is a perfect destination for history, nature, and tradition enthusiasts. Whether you want to explore cultural monuments, enjoy pristine nature, or simply relax in one of the many parks, Čačak offers something for every visitor. Its authentic atmosphere and the hospitality of its residents will make you feel at home.",
+      "Here are some recommendations for places you must visit:"
+    ]
+  },
+  "attractions": {
+    "linkText": "Path"
+  }
+}

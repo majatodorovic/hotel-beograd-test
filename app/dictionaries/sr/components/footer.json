@@ -1,0 +1,29 @@
+{
+  "termsAndConditions": {
+    "text": "Pravila i uslovi hotela",
+    "href": "/terms-and-conditions"
+  },
+  "copyright": "Sva prava zadržana.",
+  "socials": [
+    {
+      "href": "https://www.facebook.com/utpmoravaca",
+      "linkText": "Facebook"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCaiv4_stpgN-375NGhXRaqA",
+      "linkText": "Youtube"
+    },
+    {
+      "href": "https://www.instagram.com/utp_morava/",
+      "linkText": "Instagram"
+    }
+  ],
+  "navLinks": [
+    { "href": "/restaurant", "linkText": "Jelovnik" },
+    { "href": "/accommodation", "linkText": "Smeštaj" },
+    { "href": "/conference-hall", "linkText": "Konferencijska sala" },
+    { "href": "/gallery", "linkText": "Galerija" },
+    { "href": "/attractions", "linkText": "Sadržaji" },
+    { "href": "/about-us", "linkText": "O nama" }
+  ]
+}

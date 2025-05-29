@@ -1,0 +1,353 @@
+{
+  "intro": {
+    "img": "/images/accommodation/intro-image.jpg",
+    "subheading": "A place where elegance meets comfort",
+    "heading": "Here begins your vacation",
+    "paragraphs": [
+      "Our hotel is the perfect choice for both business guests and families who want to enjoy a peaceful and comfortable environment. The rooms are equipped for comfort, with fast Wi-Fi and a tranquil atmosphere, making it an ideal place for work, relaxation, and quality time with your loved ones. Whether you're here for business meetings, conferences, or relaxation with your family, we have provided everything you need for a pleasant and successful stay.",
+      "Our offer includes:",
+      "<b>Single rooms</b></br><b>Double rooms</b></br><b>Rooms with a double bed</b></br><b>Luxury suite with a private veranda</b></br><b>President suite</b>",
+      ""
+    ],
+    "btn": {
+      "href": "https://www.booking.com/hotel/rs/beograd-cacak.sr.html?aid=397594;label=gog235jc-1DCAEoggI46AdIJFgDaMEBiAEBmAEkuAEGyAEM2AED6AEB-AECiAIBqAIDuALP9JvmBcACAQ;sid=80752d9fee8cb9e563b9483a801d4e30;dest_id=-76924;dest_type=city;dist=0;group_adults=2;hapos=7;hpos=7;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1556544311;srpvid=48c65e5b9065020b;type=total;ucfs=1&#hotelTmpl",
+      "text": "Book on",
+      "booking": true
+    }
+  },
+  "roomsBathrooms": {
+    "roomList": {
+      "heading": "Rooms:",
+      "items": [
+        "Air conditioning",
+        "Smoke detectors and sprinklers",
+        "43” flat screen TV and cable TV",
+        "Ergonomic workspace",
+        "Safe large enough to store a laptop",
+        "Kettle and tea-making set"
+      ]
+    },
+    "bathroomList": {
+      "heading": "Bathrooms:",
+      "items": [
+        "Shower cabin",
+        "Toilet with bidet function",
+        "Magnifying cosmetic mirror",
+        "Underfloor heating",
+        "Towel dryer",
+        "Hairdryer"
+      ]
+    }
+  },
+
+  "roomTypes": [
+    {
+      "img": "/images/accommodation/room-1.jpg",
+      "heading": "Single room",
+      "paragraph": "These rooms are ideal for a short stay, whether you are coming to Čačak for business or tourism, and are a frequent choice of business people and individual travelers.",
+      "benefits": [
+        "Baby cot on guest's request",
+        "Extra pillow",
+        "Daily room cleaning",
+        "Information about tourist attractions in the area",
+        "Non-smoking / smoking rooms"
+      ],
+
+      "roomContents": {
+        "heading": "Room Amenities",
+        "items": [
+          "Mini Bar",
+          "Ironing and laundry",
+          "Room Service",
+          "Cable TV",
+          "Hairdryer",
+          "Free internet",
+          "Parking",
+          "Phone"
+        ]
+      },
+      "priceList": [
+        { "text": "OVERNIGHT WITH BREAKFAST", "price": "4000,00" },
+        { "text": "BREAKFAST", "price": "600,00" },
+        { "text": "HALF BOARD", "price": "4700,00" },
+        { "text": "LUNCH", "price": "700,00" },
+        { "text": "PENSION", "price": "5400,00" },
+        { "text": "DINNER", "price": "700,00" }
+      ],
+      "tax": "Prices are expressed in dinars including VAT. ",
+      "images": {
+        "primaryImage": "/images/accommodation/room-1.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-2.jpg",
+      "heading": "King Suite",
+      "paragraph": "The synthesis of modern lines and proportionality that exudes the KING apartment, gives a special stamp to our hotel.",
+      "benefits": [
+        "Baby cot on guest's request",
+        "Extra pillow",
+        "Daily room cleaning",
+        "Information about tourist attractions in the area",
+        "Non-smoking / smoking rooms"
+      ],
+      "roomContents": {
+      "heading": "Room Amenities",
+        "items": [
+          "Mini Bar",
+          "Ironing and laundry",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        {
+          "innerPriceList": {
+            "columnHeadings": ["Apartman", "Extra bed"],
+            "rows": [
+              {
+                "text": "OVERNIGHT WITH BREAKFAST",
+                "columns": ["8600,00", "2600,00"]
+              },
+              {
+                "text": "HALF BOARD",
+                "columns": ["9200,00", "3200,00"]
+              },
+              {
+                "text": "PENSION",
+                "columns": ["9800,00", "3800,00"]
+              }
+            ]
+          }
+        },
+        { "text": "BREAKFAST", "price": "500,00" },
+        { "text": "LUNCH", "price": "600,00" },
+        { "text": "DINNER", "price": "600,00" }
+      ],
+      "tax": "Prices are expressed in dinars including VAT.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-2.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-3.jpg",
+      "heading": "Double room",
+      "paragraph": "Double rooms represent a perfect harmony of simplicity and functionality.",
+      "benefits": [
+        "Baby cot on guest's request",
+        "Extra pillow",
+        "Daily room cleaning",
+        "Information about tourist attractions in the area",
+        "Non-smoking / smoking rooms"
+      ],
+      "roomContents": {
+     "heading": "Room Amenities",
+        "items": [
+          "Mini Bar",
+          "Ironing and laundry",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        { "text": "BED AND BREAKFAST (per person)", "price": "3100,00" },
+        { "text": "BREAKFAST", "price": "600,00" },
+        { "text": "HALF BOARD (per person)", "price": "3800,00" },
+        { "text": "LUNCH", "price": "700,00" },
+        { "text": "BOARDING BOARD (per person)", "price": "3500,00" },
+        { "text": "DINNER", "price": "700,00" }
+      ],
+      "tax": "Prices are expressed in dinars including VAT.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-3.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-4.jpg",
+      "heading": "French bed",
+      "paragraph": "These rooms are designed according to the needs of the modern traveler, offering work space, constant access to wireless internet and numerous additional facilities.",
+      "benefits": [
+        "Baby cot on guest's request",
+        "Extra pillow",
+        "Daily room cleaning",
+        "Information about tourist attractions in the area",
+        "Non-smoking / smoking rooms"
+      ],
+
+      "roomContents": {
+       "heading": "Room Amenities",
+        "items": [
+          "Mini Bar",
+          "Ironing and laundry",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        {
+          "innerPriceList": {
+            "columnHeadings": ["1/1", "1/2 (per person)"],
+            "rows": [
+              {
+                "text": "OVERNIGHT WITH BREAKFAST",
+                "columns": ["2600,00", "3400,00"]
+              },
+              {
+                "text": "HALF BOARD",
+                "columns": ["3200,00", "4000,00"]
+              },
+              {
+                "text": "PENSION",
+                "columns": ["3800,00", "4600,00"]
+              }
+            ]
+          }
+        },
+        { "text": "BREAKFAST", "price": "500,00" },
+        { "text": "LUNCH", "price": "600,00" },
+        { "text": "DINNER", "price": "600,00" }
+      ],
+      "tax": "Prices are expressed in dinars including VAT.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-4.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-5.jpg",
+      "heading": "Triple room",
+      "paragraph": "The perfect choice for trips of different groups - from families and friends to business groups and sports teams.",
+      "benefits": [
+        "Baby cot on guest's request",
+        "Extra pillow",
+        "Daily room cleaning",
+        "Information about tourist attractions in the area",
+        "Non-smoking / smoking rooms"
+      ],
+      "roomContents": {
+       "heading": "Room Amenities",
+        "items": [
+          "Mini Bar",
+          "Ironing and laundry",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        { "text": "BED AND BREAKFAST (per person)", "price": "2600,00" },
+        { "text": "BREAKFAST", "price": "500,00" },
+        { "text": "HALF BOARD (per person)", "price": "3200,00" },
+        { "text": "LUNCH", "price": "600,00" },
+        { "text": "BOARDING BOARD (per person)", "price": "3800,00" },
+        { "text": "DINNER", "price": "600,00" }
+      ],
+      "tax": "Prices are expressed in dinars including VAT.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-5.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg"
+        ]
+      }
+    },
+    {
+      "img": "",
+      "heading": "Queen Suite",
+      "paragraph": "Queen apartments are a special unit in the offer of our hotel, recognizable for their exceptional comfort and pleasant ambience. ",
+      "benefits": [
+        "Baby cot on guest's request",
+        "Extra pillow",
+        "Daily room cleaning",
+        "Information about tourist attractions in the area",
+        "Non-smoking / smoking rooms"
+      ],
+      "roomContents": {
+       "heading": "Room Amenities",
+        "items": [
+          "Mini Bar",
+          "Ironing and laundry",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        {
+          "innerPriceList": {
+            "columnHeadings": ["Apartman", "Extra bed"],
+            "rows": [
+              {
+                "text": "OVERNIGHT WITH BREAKFAST",
+                "columns": ["7300,00", "2600,00"]
+              },
+              {
+                "text": "HALF BOARD",
+                "columns": ["7900,00", "3200,00"]
+              },
+              {
+                "text": "PENSION",
+                "columns": ["8500,00", "3800,00"]
+              }
+            ]
+          }
+        },
+        { "text": "BREAKFAST", "price": "500,00" },
+        { "text": "LUNCH", "price": "600,00" },
+        { "text": "DINNER", "price": "600,00" }
+      ],
+      "tax": "Prices are expressed in dinars including VAT. ",
+      "images": {
+        "primaryImage": "",
+        "secondaryImages": []
+      }
+    }
+  ]
+}

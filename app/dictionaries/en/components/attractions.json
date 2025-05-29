@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "img": "/images/attractions/blagovestenje.webp",
+      "heading": "Monastery Blagoveštenje",
+      "description": "One of the most significant monasteries in Serbia, located in the Ovčar-Kablar gorge, surrounded by beautiful landscapes. This spiritual center offers peace and tranquility, as well as beautiful architecture.",
+      "link": "https://www.google.com/maps/place/Monastery+Blagove%C5%A1tenje/@43.8974113,20.1822116,1118m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47577a58ec4fba09:0xa23c89cd3436edb7!8m2!3d43.8974113!4d20.1847865!16s%2Fg%2F122hcv3w?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/klisura.webp",
+      "heading": "Ovčar-Kablar Gorge",
+      "description": "A nature reserve known for its hiking trails, spectacular views, and thermal springs. An ideal place for nature and adventure enthusiasts.",
+      "link": "https://www.google.com/maps/place/Ovcarsko-Kablarska+Klisura/@43.9045246,20.195654,731m/data=!3m1!1e3!4m6!3m5!1s0x47577af258b60ddb:0x5759faa337a30f44!8m2!3d43.9047222!4d20.1958333!16s%2Fg%2F1q5bmmgk5?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/muzej.webp",
+      "heading": "National Museum Čačak",
+      "description": "Discover the rich history of the region through a collection of artifacts that span from prehistory to modern times. The museum is located in the heart of the city, offering a great insight into local culture.",
+      "link": "https://www.google.com/maps/place/National+Museum+%C4%8Ca%C4%8Dak/@43.8933319,20.3465549,1118m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4757721167be0833:0xc75a3e0c2ef8691e!8m2!3d43.8933319!4d20.3491298!16s%2Fg%2F11b5m46njj?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/park.webp",
+      "heading": "City Park Čačak",
+      "description": "A perfect place for a walk and relaxation in the very center of the city. The greenery, fountains, and sculptures make this park ideal for all generations.",
+      "link": "https://www.google.com/maps/place/City+park/@43.893272,20.3401655,1118m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47577210ab222c8b:0x2fadb2dd07f77581!8m2!3d43.893272!4d20.3427404!16s%2Fg%2F11c2lbn6_6?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/rimljani.webp",
+      "heading": "Romans in Čačak",
+      "description": "Visit the archaeological site and learn more about the Roman presence in this area. Significant remains from the Roman period have been discovered at these sites, showcasing a rich history.",
+      "link": "https://www.google.com/maps/place/Roman+Square/@43.8923697,20.346983,1118m/data=!3m1!1e3!4m7!3m6!1s0x475773b056f08491:0x52be81953e7979c7!8m2!3d43.8916276!4d20.349116!15sChByaW1za2kgdHJnIGNhY2FrkgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16s%2Fg%2F11gmcjj63c?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    },
+    {
+      "img": "/images/attractions/trepca.webp",
+      "heading": "Atomic Spa Gornja Trepča",
+      "description": "Known for its therapeutic thermal waters, this spa attracts visitors seeking relaxation and health treatments. A perfect place for rest and rejuvenation.",
+      "link": "https://www.google.com/maps/place/Atomska+Banja/@43.9533049,20.4827803,1116m/data=!3m2!1e3!4b1!4m6!3m5!1s0x475713e36b41436b:0x6fd1ef02ece50018!8m2!3d43.9533049!4d20.4853552!16s%2Fg%2F11gkb59d6y?entry=tts&g_ep=EgoyMDI0MTAyMS4xIPu8ASoASAFQAw%3D%3D"
+    }
+  ]
+}

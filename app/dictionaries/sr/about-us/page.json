@@ -1,0 +1,73 @@
+{
+  "intro": {
+    "img": "/images/about-us/intro-image.jpg",
+    "subheading": "Gostoprimstvo koje se pamti",
+    "heading": "Biser Čačka",
+    "paragraphs": [
+      "Hotel Beograd smešten je u samom srcu Čačka, jedini hotel u pešačkoj zoni centra grada. Spoj tradicije i savremenog savršeno je prikazan kroz naše sobe i apartmane, u kojima ćete uživati u potpunom komforu i opuštanju. U sklopu hotela nalazi se i konferencijska sala sa najnovijom tehničkom opremom, aperitiv bar, kao i restoran čiji vitraži, inspirisani motivima starog Čačka, donose jedinstvenu atmosferu i šarm."
+
+      
+    ],
+    "btn": {
+      "href": "/gallery",
+      "text": "Pogledajte galeriju"
+    }
+  },
+  "qualities": [
+    {
+      "heading": "Istorijat hotela",
+      "p": "Hotel Beograd već decenijama spaja tradiciju i moderni komfor, postajući prepoznatljivo mesto gostoprimstva i susreta u srcu Čačka.",
+      "icon": "/images/about-us/scroll.png",
+      "iconActive": "/images/about-us/scrollActive.png"
+    },
+    {
+      "heading": "Nagrade",
+      "p": "Hotel Beograd ponosi se brojnim priznanjima za kvalitet usluge i gostoprimstvo, što potvrđuje poverenje gostiju i poslovnih partnera.",
+      "icon": "/images/about-us/star.png",
+      "iconActive": "/images/about-us/starActive.png"
+    },
+    {
+      "heading": "Menadžment",
+      "p": "Stručni menadžment hotela vodi se vizijom razvoja, negujući tradiciju uz stalno unapređenje usluge i zadovoljstva gostiju.",
+      "icon": "/images/about-us/infrastructure.png",
+      "iconActive": "/images/about-us/infrastructureActive.png"
+    }
+  ],
+  "history": [
+    {
+      "heading": "1900. godina",
+      "p": "Zidanje zgrade, u tadašnjoj ulici Kralja Aleksandra započeo je industrijalac Ferdinand Kren, koji je još 1850. u Čačku otvorio pivaru. Gradnju je završio njegov sin Stevan, a hotel ''Kren'', sa šest soba, počeo je sa radom 1. januara 1900.godine."
+    },
+    {
+      "heading": "1945. godina",
+      "p": "Posle 1945. Hotel ''Kren'' menja ime u SUR ''Beogradčić'', a potom dobija naziv Hotel ''Beograd''. Hotel''Beograd'' je kao retko gde očuvao prvobitnu fasadu, koja je znatno kasnije, krajem 70- tih zaštićena."
+    },
+    {
+      "heading": "1961. godina",
+      "p": "Ugostiteljsko turističko preduzeće ''Morava'' koje je nastavilo ugostiteljski rad u hotelu, uradilo je prvu rekonstrukciju 1961. godine. Velikom rekonstrukcijom, objekat 1975. godine dobija salu za ručavanje, novi blok i znatno više prostora."
+    },
+    {
+      "heading": "2008. godina",
+      "p": "Hotel Beograd 2008 godine, biva kompletno renoviran i prema kategorizaciji sa dve zvezdice prelazi u hotel sa četiri zvezdice."
+    },
+    {
+      "heading": "2017. godina",
+      "p": "Enterijer hotela dobija novi izgled sa tradicionalnim stilom. Investicionim ulaganjima u tehničko-tehnološka dostignuća u segmentu restoraterstva i ljudskih resursa hotel dostiže zavidan nivo."
+    },
+    {
+      "heading": "2023. godina",
+      "p": "Restoran i aperitiv bar su potpuno renovirani u skladu sa modernim kriterijumima u dizajnu, a u isto vreme sačuvan je duh prošlih vremena."
+    }
+  ],
+  "trophies": [
+    "2009. – Najbolji hotel – Novosadski sajam",
+    "2012. – Restoraterstvo, Srpski sto posne hrane - Perćac",
+    "2013. – Restoraterstvo, Zbor ugostitelja – Prolom Banja",
+    "2015. – Zlatna Povelja za kvalitet i kontinuirano trajanje 115 godina – Turistički svet",
+    "2017. – Centar za istraživanje mišljenja klijenata – Firma od poverenja"
+  ],
+  "management": [
+    { "name": "Mihailo Topalović", "role": "Menadžer hotela" },
+    { "name": "Milica Cuparić", "role": "Šef kuhinje" }
+  ]
+}

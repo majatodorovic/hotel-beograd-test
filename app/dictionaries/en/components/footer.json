@@ -1,0 +1,29 @@
+{
+  "termsAndConditions": {
+    "text": "Hotel Terms and Conditions",
+    "href": "/terms-and-conditions"
+  },
+  "copyright": "All rights reserved.",
+  "socials": [
+    {
+      "href": "https://www.facebook.com/utpmoravaca",
+      "linkText": "Facebook"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCaiv4_stpgN-375NGhXRaqA",
+      "linkText": "YouTube"
+    },
+    {
+      "href": "https://www.instagram.com/utp_morava/",
+      "linkText": "Instagram"
+    }
+  ],
+  "navLinks": [
+    { "href": "/restaurant", "linkText": "Menu" },
+    { "href": "/accommodation", "linkText": "Accommodation" },
+    { "href": "/conference-hall", "linkText": "Conference Hall" },
+    { "href": "/gallery", "linkText": "Gallery" },
+    { "href": "/attractions", "linkText": "Attractions" },
+    { "href": "/about-us", "linkText": "About Us" }
+  ]
+}

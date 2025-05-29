@@ -1,0 +1,24 @@
+{
+  "intro": {
+    "img": "/images/restaurant/intro-image.jpg",
+    "subheading": "Hotel Beograd Restaurant",
+    "heading": "The Perfect Meal for Every Occasion",
+    "paragraphs": [
+      "Our restaurant, with a capacity of 120 seats, is the perfect choice for special occasions and events. We offer complete organization, along with a carefully designed menu selection, fully tailored to your desires and needs.",
+      "Enjoy a rich selection of dishes, including vegan, vegetarian, and meals tailored for people with diabetes, as well as specialties from both local and international cuisines. Each dish is a true masterpiece crafted by our experienced chefs, who carefully create delicious combinations, providing enjoyment for your senses of sight and taste.",
+      "Additionally, a rich selection of local and international wines enhances your gastronomic experience, making every meal even more perfect. Our guests also enjoy special service and benefits at UTP Morava DOO brand properties."
+    ],
+    "btn": {
+      "href": "/restaurant/#foodMenu",
+      "text": "View Menu"
+    }
+  },
+  "gallery": [
+    { "src": "/images/restaurant/restaurant-1.jpg" },
+    { "src": "/images/restaurant/restaurant-2.jpg" },
+    { "src": "/images/restaurant/restaurant-3.jpg" },
+    { "src": "/images/restaurant/restaurant-4.jpg" },
+    { "src": "/images/restaurant/restaurant-5.jpg" },
+    { "src": "/images/restaurant/restaurant-6.jpg" }
+  ]
+}

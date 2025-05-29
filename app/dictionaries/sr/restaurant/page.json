@@ -1,0 +1,24 @@
+{
+  "intro": {
+    "img": "/images/restaurant/intro-image.jpg",
+    "subheading": "Restoran Hotela Beograd",
+    "heading": "Savršen obrok za svaku priliku",
+    "paragraphs": [
+      "Naš restoran, sa kapacitetom od 120 mesta, savršen je izbor za posebne prilike i događaje. Nudimo kompletnu organizaciju, uz pažljivo osmišljenu ponudu menija, koji će biti u potpunosti prilagođen vašim željama i potrebama.",
+      "Uživajte u bogatom izboru jela, uključujući veganske, vegetarijanske i obroke prilagođene osobama sa dijabetesom, kao i specijalitete domaće i internacionalne kuhinje. Svako jelo je pravo remek-delo naših iskusnih kuvara, koji sa pažnjom kreiraju ukusne kombinacije, pružajući uživanje za vaša čula vida i ukusa.",
+      "Dodatno, bogata selekcija domaćih i svetskih vina upotpunjuje vaš gastronomski doživljaj, čineći svaki obrok još savršenijim. Naši gosti takođe uživaju u posebnoj usluzi i pogodnostima u objektima brenda UTP Morava DOO."
+    ],
+    "btn": {
+      "href": "/restaurant/#foodMenu",
+      "text": "Pogledajte jelovnik"
+    }
+  },
+  "gallery": [
+    { "src": "/images/restaurant/restaurant-1.jpg" },
+    { "src": "/images/restaurant/restaurant-2.jpg" },
+    { "src": "/images/restaurant/restaurant-3.jpg" },
+    { "src": "/images/restaurant/restaurant-4.jpg" },
+    { "src": "/images/restaurant/restaurant-5.jpg" },
+    { "src": "/images/restaurant/restaurant-6.jpg" }
+  ]
+}

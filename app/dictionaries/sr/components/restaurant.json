@@ -1,0 +1,395 @@
+{
+  "heading": "Jelovnik hotel Beograd",
+  "items": [
+    {
+      "categories": [
+        {
+          "category": "HLADNA PREDJELA",
+          "items": [
+            {
+              "name": "Hladna zakuska - HB",
+              "description": "/svinjska pršuta, goveđa pršuta, dalmatinski pršut, šunka, kačkavalj, masline, marinirane pečurke/\n"
+            },
+            {
+              "name": "Dalmatinski pršut, 100gr"
+            },
+            {
+              "name": "Goveđa pršuta, 100gr"
+            },
+            {
+              "name": "Svinjska pršuta, 100gr"
+            },
+            { "name": "Tartar biftek, 300gr" },
+            {
+              "name": "Kapreze salata",
+              "description": "/mozzarella, paradajz, maslinovo ulje, bosiljak/\n"
+            },
+            { "name": "Salata šefa kuhinje" },
+            {
+              "name": "Masline",
+              "description": " /više vrsta grčkih maslina/\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SUPE / ČORBE / POTAŽI",
+          "items": [
+            {
+              "name": "Teleća čorba"
+            },
+            {
+              "name": "Pileća čorba"
+            },
+            {
+              "name": "Potaž od povrća"
+            },
+            {
+              "name": "Čorba od bundeve"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "TOPLA PREDJELA",
+          "items": [
+            {
+              "name": "Vegetarijanski tanjir, 250gr",
+              "description": "/grilovano povrće/\n"
+            },
+            {
+              "name": "Šampinjoni na žaru, 300gr"
+            },
+            {
+              "name": "Mediteranska salata, porc.",
+              "description": "/lignje, slanina, povrće, parmezan/\n"
+            },
+            { "name": "Pohovani vrganj sa sosom od bosiljka, 200gr" },
+            { "name": "Taljatele u pesto sosu sa pršutom i piletinom, porc." },
+            { "name": "Punjene palačinke, porc." },
+            { "name": "Pohovani sir, porc." }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "VARIVA / PRILOZI",
+          "items": [
+            {
+              "name": "Varivo (po želji), porc."
+            },
+            {
+              "name": "Pomfrit, porc."
+            }
+          ]
+        },
+        {
+          "category": "RIBA I MORSKI PLODOVI",
+          "items": [
+            {
+              "name": "Pastrmka, kg"
+            },
+            {
+              "name": "Dimljena pastrmka, file 300gr"
+            },
+            {
+              "name": "Smuđ u belom vinu, kg"
+            },
+            {
+              "name": "Dimljeni šaran, 300gr"
+            },
+            {
+              "name": "Filet soma, 300gr"
+            },
+            {
+              "name": "Orada, kg"
+            },
+            {
+              "name": "Brancin, kg"
+            },
+            {
+              "name": "Lignje na žaru ili pohovane sa dalmatinskim varivom, 300gr"
+            },
+            {
+              "name": "Mediteranski tanjir, 450gr"
+            },
+            {
+              "name": "Salata sa plodovima mora, 300gr"
+            },
+            {
+              "name": "Rižoto od plodova mora, 300gr"
+            },
+            { "name": "Filet lososa na žaru" }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "JELA PO PORUDŽBINI",
+          "items": [
+            {
+              "name": "Bečka šnicla, 300gr"
+            },
+            {
+              "name": "Teleća natur šnicla, 300gr"
+            },
+            {
+              "name": "Teleća šnicla sa sosom od šampinjona, 300gr"
+            },
+            {
+              "name": "Zapečena teleća šnicla sa šunkom i mozzarellom, 300gr"
+            },
+            {
+              "name": "Karađorđeva šnicla, porc."
+            },
+            {
+              "name": "Domaćinski biftek, 300gr",
+              "description": "/sa pečenim krompirom, kajmakom, pečurkama/\n"
+            },
+            {
+              "name": "Biftek na žaru, 300gr",
+              "description": "/gorgonzola sos, ili sos od zelenog bibera, ili sos od vrganja, ili pomfrit i grilovano povrće/\n"
+            },
+            {
+              "name": "Medaljoni u sosu od šampinjona, porc."
+            },
+            {
+              "name": "File minjon u sosu od vrganja, 300gr"
+            },
+            {
+              "name": "Ćureći medaljoni u sosu od plavog sira, 300gr"
+            },
+            {
+              "name": "Ćureći fileti u sosu od vrganja, 300gr"
+            },
+            { "name": "Ćuretina sa mlincima, 300gr" },
+            { "name": "Piletina u kari sosu, 300gr" },
+            { "name": "Pileće grudi u sosu od soja sosa i meda, 300gr" },
+            { "name": "Piletina na kineski način, porc." }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SALATE KAO OBROK",
+          "items": [
+            {
+              "name": "Cezar salata"
+            },
+            {
+              "name": "Pileća salata"
+            },
+            {
+              "name": "Topla salata biftek"
+            },
+            {
+              "name": "Formađo salata"
+            },
+            {
+              "name": "Salata od tune"
+            },
+            {
+              "name": "Meksička salata ljuta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "JELA SA ROŠTILJA",
+          "items": [
+            {
+              "name": "Ćevapi, 10 kom."
+            },
+            {
+              "name": "Pljeskavica, 300 gr"
+            },
+            {
+              "name": "Punjena pljeskavica, porc."
+            },
+            {
+              "name": "Pljeskavica na kajmaku, 300gr"
+            },
+            {
+              "name": "Domaća kobasica, 300gr"
+            },
+            {
+              "name": "Leskovački uštipak, 10 kom."
+            },
+            {
+              "name": "Bela vešalica, 300gr"
+            },
+            {
+              "name": "Mešano meso na žaru, 450gr"
+            },
+            {
+              "name": "Punjena bela vešalica, 300gr"
+            },
+            {
+              "name": "Pileći file na žaru, 300gr"
+            },
+            {
+              "name": "Punjeni pileći file, 300gr"
+            },
+            {
+              "name": "Pileći ražnjići, 300gr"
+            },
+            {
+              "name": "Punjeni pileći ražnjići, 300gr"
+            },
+            {
+              "name": "Teleća ćulbastija, 300gr"
+            },
+            {
+              "name": "Zlatiborska mućkalica, porc."
+            },
+            {
+              "name": "Punjeni svinjski file u slanini, porc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SALATE",
+          "items": [
+            {
+              "name": "Grčka salata"
+            },
+            {
+              "name": "Šopska"
+            },
+            {
+              "name": "Srpska salata"
+            },
+            {
+              "name": "Mešana sveža sezonska salata"
+            },
+            {
+              "name": "Paradajz salata"
+            },
+            {
+              "name": "Krastavac salata"
+            },
+            {
+              "name": "Zelena salata"
+            },
+            {
+              "name": "Kupus salata"
+            },
+            {
+              "name": "Paprika u pavlaci, porc."
+            },
+            {
+              "name": "Pečena paprika sa belim lukom"
+            },
+            {
+              "name": "Ljuta papričica, kom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "SIREVI",
+          "items": [
+            {
+              "name": "Izbor stranih sireva"
+            },
+            {
+              "name": "Čačanski sir"
+            },
+            {
+              "name": "Čačanski kajmak"
+            },
+            {
+              "name": "Feta sir"
+            },
+            {
+              "name": "Sir iz ulja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "POSLASTICE",
+          "items": [
+            {
+              "name": "Baklava"
+            },
+            {
+              "name": "Kolač šefa kuhinje"
+            },
+            {
+              "name": "Sladoled, kugla"
+            },
+            {
+              "name": "Žito sa šlagom"
+            },
+            {
+              "name": "Palačinke po želji",
+              "description": "/marmelada, med, krem, orasi/\n"
+            },
+            {
+              "name": "Palačinke u vinskom šatou za dvoje"
+            },
+            {
+              "name": "Voćna salata"
+            },
+            {
+              "name": "Tufahija"
+            },
+            {
+              "name": "Kolač sa sirom"
+            },
+            {
+              "name": "Pohovani sladoled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categories": [
+        {
+          "category": "PECIVA",
+          "items": [
+            {
+              "name": "Lepinja, kom."
+            },
+            {
+              "name": "Integralna lepinja, kom."
+            },
+            {
+              "name": "Proja, kom."
+            },
+            {
+              "name": "Tost hleb, kom."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

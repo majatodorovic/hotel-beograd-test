@@ -1,0 +1,104 @@
+{
+  "intro": {
+    "img": "/images/home/about-us.jpg",
+    "videoLink": "https://www.youtube.com/channel/UCaiv4_stpgN-375NGhXRaqA",
+    "subheading": "WELCOME TO HOTEL BEOGRAD",
+    "heading": "Elegance in the heart of Čačak",
+    "paragraphs": [
+      "Hotel Beograd proudly stands in the center of Čačak, located on the city promenade, where the blend of tradition and elegance captivates every visitor. Its architecture, in the spirit of ornamental modernism (Art Nouveau), exudes sophistication and authenticity.",
+      "Founded by Stevan Kren, the hotel has maintained its original shine through the decades and has become one of the most recognizable symbols of the city. Its rich history, which has lasted an entire century, confirms its significance – so much so that it is now under the protection of the Cultural Monument of the Republic of Serbia.",
+      "The authentic ambiance and unique atmosphere of Hotel Beograd leave a strong impression on every guest, offering an experience of the past in a modern guise."
+    ],
+    "benefits": [
+      { "icon": "/images/home/tray.png", "text": "Restaurant" },
+      { "icon": "/images/home/bed.png", "text": "Accommodation" },
+      { "icon": "/images/home/speaker.png", "text": "Conference Hall" }
+    ],
+    "btn": {
+      "href": "/about-us",
+      "text": "Explore"
+    }
+  },
+  "accommodation": {
+    "subheading": "ACCOMMODATION HOTEL BEOGRAD",
+    "heading": "Experience the ambiance that radiates unique elegance",
+    "p": "Whether you are in Čačak for a business meeting, conference, vacation, or just passing through, at Hotel Beograd we offer a peaceful and inspiring atmosphere perfect for both work and relaxation. We guarantee you a pleasant stay, as your comfort is our priority.",
+    "slides": [
+      {
+        "img": "/images/home/room-1.jpg",
+        "heading": "President Suite",
+        "numberOfPeople": "4 people"
+      },
+      {
+        "img": "/images/home/room-2.jpg",
+        "heading": "Lux Suite with Private Terrace",
+        "numberOfPeople": "4 people"
+      },
+      {
+        "img": "/images/home/room-3.jpg",
+        "heading": "Single Room",
+        "numberOfPeople": "1 person"
+      },
+      {
+        "img": "/images/home/room-4.jpg",
+        "heading": "Double Room",
+        "numberOfPeople": "2 people"
+      },
+      {
+        "img": "/images/home/room-5.jpg",
+        "heading": "Room with a French Bed",
+        "numberOfPeople": "2 people"
+      }
+    ]
+  },
+  "benefits": {
+    "subheading": "Facilities of Hotel Beograd",
+    "heading": "Advantages that set us apart",
+    "list": [
+      {
+        "icon": "/images/home/kuwait.png",
+        "heading": "Ideal Location",
+        "p": "The ideal location in the very city center provides easy and quick access to all major attractions, perfect for exploring and enjoying the city's spirit."
+      },
+      {
+        "icon": "/images/home/bedBrown.png",
+        "heading": "Comfortable Accommodation",
+        "p": "All of our accommodation units are a blend of authentic charm and modern design, carefully equipped to make your stay pleasant and unforgettable."
+      },
+      {
+        "icon": "/images/home/taste.png",
+        "heading": "Gourmet Cuisine",
+        "p": "Indulge in a variety of specialties, prepared with the finest fresh ingredients, accompanied by a carefully selected collection of top-quality wines."
+      },
+      {
+        "icon": "/images/home/puzzle-pieces.png",
+        "heading": "Variety of Activities",
+        "p": "Enjoy a wide range of activities, from guided tours and sports facilities to unforgettable excursions, with the opportunity to explore the local culture and untouched nature."
+      },
+      {
+        "icon": "/images/home/free-parking.png",
+        "heading": "Free Wi-Fi and Parking",
+        "p": "Guests have access to free wireless Wi-Fi throughout the property, as well as secure parking for a worry-free and comfortable stay."
+      },
+      {
+        "icon": "/images/home/happy.png",
+        "heading": "Friendly Staff",
+        "p": "Our team is dedicated to providing impeccable service, always here to make your stay as pleasant and comfortable as possible."
+      }
+    ]
+  },
+  "restaurant": {
+    "subheading": "HOTEL BEOGRAD RESTAURANT",
+    "heading": "Enjoy the gastronomic offerings of our restaurant",
+    "paragraphs": [
+      "Hotel Beograd features a modernly equipped restaurant with a capacity of 120 seats, offering a carefully selected menu of national and international cuisine. Every dish is prepared with great care and skill by our experienced chefs. As our guest, you will enjoy special service and exclusive discounts for services at UTP Morava DOO brand properties."
+    ]
+  },
+  "art": {
+    "heading": "The art of taste at your table",
+    "btn": {
+      "href": "/restaurant",
+      "text": "View Menu"
+    }
+  }
+}

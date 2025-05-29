@@ -1,0 +1,71 @@
+{
+  "intro": {
+    "img": "/images/about-us/intro-image.jpg",
+    "subheading": "Hospitality that is remembered",
+    "heading": "Pearl of Čačak",
+    "paragraphs": [
+      "Hotel Beograd is located in the heart of Čačak, the only hotel in the pedestrian zone of the city center. The blend of tradition and modernity is perfectly showcased through our rooms and suites, where you will enjoy complete comfort and relaxation. The hotel also features a conference hall with the latest technical equipment, an aperitif bar, and a restaurant whose stained-glass windows, inspired by the motifs of old Čačak, create a unique atmosphere and charm."
+    ],
+    "btn": {
+      "href": "/gallery",
+      "text": "View the gallery"
+    }
+  },
+  "qualities": [
+    {
+      "heading": "Hotel History",
+      "p": "Hotel Beograd has been combining tradition and modern comfort for decades, becoming a recognizable place of hospitality and meeting in the heart of Čačak.",
+      "icon": "/images/about-us/scroll.png",
+      "iconActive": "/images/about-us/scrollActive.png"
+    },
+    {
+      "heading": "Awards",
+      "p": "Hotel Beograd prides itself on numerous awards for service quality and hospitality, confirming the trust of its guests and business partners.",
+      "icon": "/images/about-us/star.png",
+      "iconActive": "/images/about-us/starActive.png"
+    },
+    {
+      "heading": "Management",
+      "p": "The hotel's professional management is guided by a vision of development, nurturing tradition while constantly improving service and guest satisfaction.",
+      "icon": "/images/about-us/infrastructure.png",
+      "iconActive": "/images/about-us/infrastructureActive.png"
+    }
+  ],
+  "history": [
+    {
+      "heading": "1900",
+      "p": "The construction of the building on the then King Alexander Street was started by the industrialist Ferdinand Kren, who had opened a brewery in Čačak in 1850. The construction was completed by his son Stevan, and the hotel 'Kren', with six rooms, started operating on January 1, 1900."
+    },
+    {
+      "heading": "1945",
+      "p": "After 1945, the 'Kren' hotel changed its name to SUR 'Beogradčić' and later to Hotel 'Beograd'. Hotel 'Beograd' is one of the few to have preserved its original facade, which was protected in the late 1970s."
+    },
+    {
+      "heading": "1961",
+      "p": "The catering and tourism company 'Morava', which continued the hospitality work at the hotel, performed the first reconstruction in 1961. In a major reconstruction, the building received a dining hall, a new block, and significantly more space in 1975."
+    },
+    {
+      "heading": "2008",
+      "p": "Hotel Beograd was completely renovated in 2008, and according to its classification, it transitioned from a two-star to a four-star hotel."
+    },
+    {
+      "heading": "2017",
+      "p": "The hotel's interior received a new look with a traditional style. Through investment in technological advancements in the restaurant segment and human resources, the hotel reached a high level."
+    },
+    {
+      "heading": "2023",
+      "p": "The restaurant and aperitif bar were completely renovated according to modern design standards, while at the same time preserving the spirit of the past."
+    }
+  ],
+  "trophies": [
+    "2009 – Best Hotel – Novi Sad Fair",
+    "2012 – Catering, Serbian Table of Lenten Food – Perćac",
+    "2013 – Catering, Catering Association – Prolom Banja",
+    "2015 – Golden Charter for Quality and Continuous Operation for 115 Years – Tourist World",
+    "2017 – Center for Client Opinion Research – Trusted Company"
+  ],
+  "management": [
+    { "name": "Mihailo Topalović", "role": "Hotel Manager" },
+    { "name": "Milica Cuparić", "role": "Head Chef" }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "intro": {
+    "img": "/images/conference-hall/intro-image.jpg",
+    "subheading": "Kongresna sala sa savremenom opremom",
+    "heading": "Savršeno mesto za vase poslovne dogadjaje",
+    "paragraphs": [
+      "Hotel Beograd nudi savremeno opremljenu kongresnu salu sa kapacitetom do 60 osoba, savršenu za različite vrste događaja. Sala je dizajnirana da zadovolji različite potrebe – od poslovnih sastanaka i seminara, preko obuka i prezentacija, do konferencija za novinare.",
+      "Opremljena je najnovijom audio i video tehnologijom, koja garantuje nesmetano održavanje svakog skupa. Naš stručni tim pruža kompletnu podršku u organizaciji događaja, osiguravajući da sve prođe besprekorno i profesionalno.",
+      "Tokom pauza obezbeđujemo posluženje hrane i pića, prilagođeno željama i potrebama vaših gostiju. Cene korišćenja sale povezane su sa ostalim hotelskim uslugama, a ukoliko je događaj direktno vezan za smeštaj učesnika, sala se može koristiti bez dodatnih troškova."
+    ]
+  },
+  "characteristics": [
+    {
+      "heading": "Dvd - player",
+      "p": "Sala je opremljena DVD plejerom za reprodukciju video sadržaja, idealnim za prezentacije i obuke."
+    },
+    {
+      "heading": "Konferencijska sala - Hotel Beograd",
+      "p": "Hotel Beograd nudi modernu kongresnu salu kapaciteta do 60 osoba, savršenu za konferencije, seminare, poslovne sastanke i druge profesionalne događaje. Za prezentacije i obuke, spreman za povezivanje sa projektorom i drugom opremom."
+    },
+    {
+      "heading": "Lcd - tv",
+      "p": "Sala je opremljena LCD televizorom, pogodnim za prikaz prezentacija, video sadržaja i konferencijskih poziva."
+    },
+    {
+      "heading": "Ozvučenje",
+      "p": "Ozvučenje obezbeđuje jasan i kvalitetan zvuk, prilagođeno potrebama svih događaja, od prezentacija do konferencija."
+    },
+    {
+      "heading": "Projektor",
+      "p": "Projektor omogućava visokokvalitetan prikaz slika i video sadržaja, idealan za prezentacije i seminare."
+    },
+    {
+      "heading": "WiFi",
+      "p": "Brza WiFi konekcija omogućava neometan rad, pristup online sadržajima i održavanje video konferencija."
+    }
+  ]
+}

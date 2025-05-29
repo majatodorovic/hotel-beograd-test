@@ -1,0 +1,353 @@
+{
+  "intro": {
+    "img": "/images/accommodation/intro-image.jpg",
+    "subheading": "Mesto gde se elegancija susreće sa udobnošću",
+    "heading": "Ovde počinje vaš odmor",
+    "paragraphs": [
+      "Naš hotel je savršen izbor kako za poslovne goste, tako i za porodice koje žele da uživaju u mirnom i udobnom okruženju. Sobe opremljene za udobnost, brzi Wi-Fi i spokojna atmosfera čine ga idealnim mestom za rad, opuštanje i kvalitetno vreme sa vašim najbližima. Bilo da ste tu zbog poslovnih sastanaka, konferencija ili opuštanja s porodicom, obezbedili smo sve što vam je potrebno za prijatan i uspešan boravak.",
+      "U našoj ponudi nalaze se:",
+      "<b>Jednokrevetne sobe</b></br><b>Dvokrevetne sobe</b></br><b>Sobe sa bračnim ležajem</b></br><b>Luksuzni apartman sa privatnom verandom</b></br><b>President apartman</b>",
+      ""
+    ],
+    "btn": {
+      "href": "https://www.booking.com/hotel/rs/beograd-cacak.sr.html?aid=397594;label=gog235jc-1DCAEoggI46AdIJFgDaMEBiAEBmAEkuAEGyAEM2AED6AEB-AECiAIBqAIDuALP9JvmBcACAQ;sid=80752d9fee8cb9e563b9483a801d4e30;dest_id=-76924;dest_type=city;dist=0;group_adults=2;hapos=7;hpos=7;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1556544311;srpvid=48c65e5b9065020b;type=total;ucfs=1&#hotelTmpl",
+      "text": "Rezervišite na",
+      "booking": true
+    }
+  },
+  "roomsBathrooms": {
+    "roomList": {
+      "heading": "Sobe:",
+      "items": [
+        "Klima uređaj",
+        "Detektori za dim i sprinkleri",
+        "43” flat screen TV i kablovska televizija",
+        "Ergonomični radni prostor",
+        "Sef dovoljne dimenzije za odlaganje laptopa",
+        "Ketler i set za pripremu čaja"
+      ]
+    },
+    "bathroomList": {
+      "heading": "Kupatila:",
+      "items": [
+        "Tuš kabina",
+        "Toalet šolja sa funkcijom bidea",
+        "Uveličavajuće kozmetičko ogledalo",
+        "Podno grejanje",
+        "Sušač za peškire",
+        "Fen za kosu"
+      ]
+    }
+  },
+
+  "roomTypes": [
+    {
+      "img": "/images/accommodation/room-1.jpg",
+      "heading": "Jednokrevetna soba",
+      "paragraph": "Ove sobe su idealne za kraći boravak, bilo da dolazite poslovno ili turistički u Čačak, te predstavljaju čest izbor poslovnih ljudi i individualnih putnika. Dizajnirane po visokim hotelskim standardima, opremljene su udobnim krevetom, prostranim kupatilom i svim potrebnim sadržajima za miran i prijatan boravak.",
+      "benefits": [
+        "Dečiji krevetac na zahtev gosta",
+        "Dodatni jastuk",
+        "Dnevno pospremanje soba",
+        "Informacije o turističkim sadržajima okoline",
+        "Sobe za nepušače / pušače"
+      ],
+
+      "roomContents": {
+        "heading": "Sadržaj sobe",
+        "items": [
+          "Mini Bar",
+          "Peglanje i pranje veša",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        { "text": "NOĆENJE SA DORUČKOM", "price": "4000,00" },
+        { "text": "DORUČAK", "price": "600,00" },
+        { "text": "POLUPANSION", "price": "4700,00" },
+        { "text": "RUČAK", "price": "700,00" },
+        { "text": "PANSION", "price": "5400,00" },
+        { "text": "VEČERA", "price": "700,00" }
+      ],
+      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (110,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-1.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg",
+          "/images/accommodation/room-1.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-2.jpg",
+      "heading": "King Apartman",
+      "paragraph": "Sinteza modernih linija i proporcionalnosti kojima odiše KING apartman, daje poseban pečat našem hotelu. KING apartman je idealan za sve poslovne ljude koji uživaju u spoju lepog i korisnog.",
+      "benefits": [
+        "Dečiji krevetac na zahtev gosta",
+        "Dodatni jastuk",
+        "Dnevno pospremanje soba",
+        "Informacije o turističkim sadržajima okoline",
+        "Sobe za nepušače / pušače"
+      ],
+      "roomContents": {
+        "heading": "Sadržaj sobe",
+        "items": [
+          "Mini Bar",
+          "Peglanje i pranje veša",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        {
+          "innerPriceList": {
+            "columnHeadings": ["Apartman", "Dodatni ležaj"],
+            "rows": [
+              {
+                "text": "NOĆENJE SA DORUČKOM",
+                "columns": ["8600,00", "2600,00"]
+              },
+              {
+                "text": "POLUPANSION",
+                "columns": ["9200,00", "3200,00"]
+              },
+              {
+                "text": "PANSION",
+                "columns": ["9800,00", "3800,00"]
+              }
+            ]
+          }
+        },
+        { "text": "DORUČAK", "price": "500,00" },
+        { "text": "RUČAK", "price": "600,00" },
+        { "text": "VEČERA", "price": "600,00" }
+      ],
+      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-2.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg",
+          "/images/accommodation/room-2.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-3.jpg",
+      "heading": "Dvokrevetna soba",
+      "paragraph": "Dvokrevetne sobe predstavljaju savršenu harmoniju jednostavnosti i funkcionalnosti. Ističu se prostranošću, udobnošću i prefinjenim dizajnom, pružajući gostima istinsko i nezaboravno iskustvo boravka.",
+      "benefits": [
+        "Dečiji krevetac na zahtev gosta",
+        "Dodatni jastuk",
+        "Dnevno pospremanje soba",
+        "Informacije o turističkim sadržajima okoline",
+        "Sobe za nepušače / pušače"
+      ],
+      "roomContents": {
+        "heading": "Sadržaj sobe",
+        "items": [
+          "Mini Bar",
+          "Peglanje i pranje veša",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        { "text": "NOĆENJE SA DORUČKOM (po osobi)", "price": "3100,00" },
+        { "text": "DORUČAK", "price": "600,00" },
+        { "text": "POLUPANSION (po osobi)", "price": "3800,00" },
+        { "text": "RUČAK", "price": "700,00" },
+        { "text": "PANSION (po osobi)", "price": "3500,00" },
+        { "text": "VEČERA", "price": "700,00" }
+      ],
+      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (110,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-3.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg",
+          "/images/accommodation/room-3.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-4.jpg",
+      "heading": "Francuski ležaj",
+      "paragraph": "Ove sobe su osmišljene prema potrebama savremenog putnika, nudeći radni prostor, stalni pristup bežičnom internetu i brojne dodatne sadržaje. Bilo da putujete sami ili u paru, ovaj tip smeštaja obezbeđuje vam optimalan komfor i udobnost za prijatan boravak.",
+      "benefits": [
+        "Dečiji krevetac na zahtev gosta",
+        "Dodatni jastuk",
+        "Dnevno pospremanje soba",
+        "Informacije o turističkim sadržajima okoline",
+        "Sobe za nepušače / pušače"
+      ],
+
+      "roomContents": {
+        "heading": "Sadržaj sobe",
+        "items": [
+          "Mini Bar",
+          "Peglanje i pranje veša",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        {
+          "innerPriceList": {
+            "columnHeadings": ["1/1", "1/2 (po osobi)"],
+            "rows": [
+              {
+                "text": "NOĆENJE SA DORUČKOM",
+                "columns": ["2600,00", "3400,00"]
+              },
+              {
+                "text": "POLUPANSION",
+                "columns": ["3200,00", "4000,00"]
+              },
+              {
+                "text": "PANSION",
+                "columns": ["3800,00", "4600,00"]
+              }
+            ]
+          }
+        },
+        { "text": "DORUČAK", "price": "500,00" },
+        { "text": "RUČAK", "price": "600,00" },
+        { "text": "VEČERA", "price": "600,00" }
+      ],
+      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-4.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg",
+          "/images/accommodation/room-4.jpg"
+        ]
+      }
+    },
+    {
+      "img": "/images/accommodation/room-5.jpg",
+      "heading": "Trokrevetna soba",
+      "paragraph": "Savršen izbor za putovanja različitih grupa – od porodica i prijatelja do poslovnih kolektiva i sportskih ekipa. Ove sobe pružaju dovoljno prostora i udobnosti za opušten i prijatan boravak, omogućavajući svima da se osećaju kao kod kuće.",
+      "benefits": [
+        "Dečiji krevetac na zahtev gosta",
+        "Dodatni jastuk",
+        "Dnevno pospremanje soba",
+        "Informacije o turističkim sadržajima okoline",
+        "Sobe za nepušače / pušače"
+      ],
+      "roomContents": {
+        "heading": "Sadržaj sobe",
+        "items": [
+          "Mini Bar",
+          "Peglanje i pranje veša",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        { "text": "NOĆENJE SA DORUČKOM (po osobi)", "price": "2600,00" },
+        { "text": "DORUČAK", "price": "500,00" },
+        { "text": "POLUPANSION (po osobi)", "price": "3200,00" },
+        { "text": "RUČAK", "price": "600,00" },
+        { "text": "PANSION (po osobi)", "price": "3800,00" },
+        { "text": "VEČERA", "price": "600,00" }
+      ],
+      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+      "images": {
+        "primaryImage": "/images/accommodation/room-5.jpg",
+        "secondaryImages": [
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg",
+          "/images/accommodation/room-5.jpg"
+        ]
+      }
+    },
+    {
+      "img": "",
+      "heading": "Queen Apartman",
+      "paragraph": "Queen apartmani čine posebnu celinu u ponudi našeg hotela, prepoznatljivi po izuzetnom komforu i prijatnom ambijentu. Idealni su kako za porodične boravke, tako i za duže poslovne posete, zbog čega su omiljeni izbor naših vernih gostiju.",
+      "benefits": [
+        "Dečiji krevetac na zahtev gosta",
+        "Dodatni jastuk",
+        "Dnevno pospremanje soba",
+        "Informacije o turističkim sadržajima okoline",
+        "Sobe za nepušače / pušače"
+      ],
+      "roomContents": {
+        "heading": "Sadržaj sobe",
+        "items": [
+          "Mini Bar",
+          "Peglanje i pranje veša",
+          "Room Service",
+          "Cable TV",
+          "Fen",
+          "Besplatan internet",
+          "Parking",
+          "Telefon"
+        ]
+      },
+      "priceList": [
+        {
+          "innerPriceList": {
+            "columnHeadings": ["Apartman", "Dodatni ležaj"],
+            "rows": [
+              {
+                "text": "NOĆENJE SA DORUČKOM",
+                "columns": ["7300,00", "2600,00"]
+              },
+              {
+                "text": "POLUPANSION",
+                "columns": ["7900,00", "3200,00"]
+              },
+              {
+                "text": "PANSION",
+                "columns": ["8500,00", "3800,00"]
+              }
+            ]
+          }
+        },
+        { "text": "DORUČAK", "price": "500,00" },
+        { "text": "RUČAK", "price": "600,00" },
+        { "text": "VEČERA", "price": "600,00" }
+      ],
+      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+      "images": {
+        "primaryImage": "",
+        "secondaryImages": []
+      }
+    }
+  ]
+}

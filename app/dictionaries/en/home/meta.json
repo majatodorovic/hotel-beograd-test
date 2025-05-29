@@ -1,0 +1,18 @@
+{
+  "title": "Hotel Beograd - Welcome",
+  "description": "Welcome to Hotel Beograd – your oasis of comfort and luxury. Enjoy top-notch accommodation, a gourmet selection, and first-class service in a perfect location.",
+  "icons": "/images/favicon.ico",
+  "openGraph": {
+    "title": "Hotel Beograd - Welcome",
+    "description": "Welcome to Hotel Beograd – your oasis of comfort and luxury. Enjoy top-notch accommodation, a gourmet selection, and first-class service in a perfect location.",
+    "images": [
+      {
+        "url": "/images/home/banner.jpg",
+        "width": 800,
+        "height": 600,
+        "alt": "Home page banner"
+      }
+    ],
+    "type": "website"
+  }
+}
