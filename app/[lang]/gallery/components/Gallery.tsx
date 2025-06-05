@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useRef, useState } from "react";
+import {  useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
 // import required modules
@@ -15,6 +15,21 @@ export default function Gallery({ data }: any) {
   const [lightboxOpen, setLightBoxOpen] = useState<any>(null);
   const prevRef = useRef<any>(null);
   const nextRef = useRef<any>(null);
+  const swiperRef = useRef<any>(null);
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (lightboxOpen === null || !swiperRef.current) return;
+
+      if (e.key === "ArrowRight") {
+        swiperRef.current.slideNext();
+      } else if (e.key === "ArrowLeft") {
+        swiperRef.current.slidePrev();
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [lightboxOpen]);
   return (
     <section className="w-full flex flex-col items-center px-6 md:px-8 2xl:px-12">
       <div className="flex flex-col items-center sm:grid sm:grid-cols-2 xl:grid-cols-3 gap-5 lg:max-w-5xl xl:max-w-[1612px] w-full">
@@ -138,6 +153,9 @@ export default function Gallery({ data }: any) {
                   navigation={{
                     prevEl: prevRef.current,
                     nextEl: nextRef.current,
+                  }}
+                  onSwiper={(swiper) => {
+                    swiperRef.current = swiper;
                   }}
                   onBeforeInit={(swiper: any) => {
                     // Set the navigation elements after Swiper initialization

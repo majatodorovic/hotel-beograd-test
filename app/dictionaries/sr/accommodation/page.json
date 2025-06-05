@@ -294,60 +294,6 @@
           "/images/accommodation/room-5.jpg"
         ]
       }
-    },
-    {
-      "img": "",
-      "heading": "Queen Apartman",
-      "paragraph": "Queen apartmani čine posebnu celinu u ponudi našeg hotela, prepoznatljivi po izuzetnom komforu i prijatnom ambijentu. Idealni su kako za porodične boravke, tako i za duže poslovne posete, zbog čega su omiljeni izbor naših vernih gostiju.",
-      "benefits": [
-        "Dečiji krevetac na zahtev gosta",
-        "Dodatni jastuk",
-        "Dnevno pospremanje soba",
-        "Informacije o turističkim sadržajima okoline",
-        "Sobe za nepušače / pušače"
-      ],
-      "roomContents": {
-        "heading": "Sadržaj sobe",
-        "items": [
-          "Mini Bar",
-          "Peglanje i pranje veša",
-          "Room Service",
-          "Cable TV",
-          "Fen",
-          "Besplatan internet",
-          "Parking",
-          "Telefon"
-        ]
-      },
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["Apartman", "Dodatni ležaj"],
-            "rows": [
-              {
-                "text": "NOĆENJE SA DORUČKOM",
-                "columns": ["7300,00", "2600,00"]
-              },
-              {
-                "text": "POLUPANSION",
-                "columns": ["7900,00", "3200,00"]
-              },
-              {
-                "text": "PANSION",
-                "columns": ["8500,00", "3800,00"]
-              }
-            ]
-          }
-        },
-        { "text": "DORUČAK", "price": "500,00" },
-        { "text": "RUČAK", "price": "600,00" },
-        { "text": "VEČERA", "price": "600,00" }
-      ],
-      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
-      "images": {
-        "primaryImage": "",
-        "secondaryImages": []
-      }
     }
   ]
 }

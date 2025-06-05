@@ -294,60 +294,7 @@
           "/images/accommodation/room-5.jpg"
         ]
       }
-    },
-    {
-      "img": "",
-      "heading": "Queen Suite",
-      "paragraph": "Queen apartments are a special unit in the offer of our hotel, recognizable for their exceptional comfort and pleasant ambience. ",
-      "benefits": [
-        "Baby cot on guest's request",
-        "Extra pillow",
-        "Daily room cleaning",
-        "Information about tourist attractions in the area",
-        "Non-smoking / smoking rooms"
-      ],
-      "roomContents": {
-       "heading": "Room Amenities",
-        "items": [
-          "Mini Bar",
-          "Ironing and laundry",
-          "Room Service",
-          "Cable TV",
-          "Fen",
-          "Besplatan internet",
-          "Parking",
-          "Telefon"
-        ]
-      },
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["Apartman", "Extra bed"],
-            "rows": [
-              {
-                "text": "OVERNIGHT WITH BREAKFAST",
-                "columns": ["7300,00", "2600,00"]
-              },
-              {
-                "text": "HALF BOARD",
-                "columns": ["7900,00", "3200,00"]
-              },
-              {
-                "text": "PENSION",
-                "columns": ["8500,00", "3800,00"]
-              }
-            ]
-          }
-        },
-        { "text": "BREAKFAST", "price": "500,00" },
-        { "text": "LUNCH", "price": "600,00" },
-        { "text": "DINNER", "price": "600,00" }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
-      "images": {
-        "primaryImage": "",
-        "secondaryImages": []
-      }
     }
+  
   ]
 }
