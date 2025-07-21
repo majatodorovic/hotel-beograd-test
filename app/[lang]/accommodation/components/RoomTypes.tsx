@@ -10,6 +10,7 @@ import { Navigation, Virtual } from "swiper/modules";
 
 export default function RoomTypes({ data }: any) {
   const [lightbox, setLightBox] = useState<any>(null);
+
   return (
     <section
       id="roomTypes"
@@ -24,6 +25,9 @@ export default function RoomTypes({ data }: any) {
           loop={true}
         >
           {data.map((roomType: any, rtIndex: number) => {
+            // Ukupan broj slika = 1 primary + sekundarne
+            const totalImagesCount = 1 + roomType.images.secondaryImages.length;
+
             return (
               <SwiperSlide key={rtIndex}>
                 <div
@@ -46,7 +50,7 @@ export default function RoomTypes({ data }: any) {
                       <p
                         data-aos="fade-up"
                         data-aos-easing="fadeUpCustom"
-                        className={`text-base md:text-lg 2xl:text-xl max-w-2xl mb-7`}
+                        className="text-base md:text-lg 2xl:text-xl max-w-2xl mb-7"
                       >
                         {roomType.paragraph}
                       </p>
@@ -147,105 +151,14 @@ export default function RoomTypes({ data }: any) {
                           </div>
                         </div>
                       </div>
-                      <div className="w-fit text-base md:text-lg 2xl:text-xl mb-12 flex flex-col items-start">
-                        {roomType.priceList.map(
-                          (priceListItem: any, priceListItemIndex: number) => {
-                            if (priceListItem.innerPriceList)
-                              return (
-                                <div
-                                  data-aos="fade-up"
-                                  data-aos-easing="fadeUpCustom"
-                                  key={priceListItemIndex}
-                                  className="w-fit grid grid-cols-[1fr_auto_auto] gap-y-3 gap-x-4 pb-4 mb-4 border-b border-black "
-                                >
-                                  <span className="col-start-2 pl-2 sm:pl-5 border-l-[1px] border-blue-800">
-                                    {
-                                      priceListItem.innerPriceList
-                                        .columnHeadings[0]
-                                    }
-                                  </span>
-                                  <span className="col-start-3 pl-2 sm:pl-5 border-l-[1px] border-blue-800">
-                                    {
-                                      priceListItem.innerPriceList
-                                        .columnHeadings[1]
-                                    }
-                                  </span>
-                                  {priceListItem.innerPriceList.rows.map(
-                                    (
-                                      innerPriceListRow: any,
-                                      innerPriceListRowIndex: number
-                                    ) => {
-                                      return (
-                                        <Fragment key={innerPriceListRowIndex}>
-                                          <span className="lowercase first-letter:uppercase pr-2 sm:pr-5">
-                                            {innerPriceListRow.text}
-                                          </span>
-                                          <span className="font-medium pl-2 sm:pl-5 border-l-[1px] border-blue-800">
-                                            {Intl.NumberFormat("de-DE", {
-                                              minimumFractionDigits: 2,
-                                              maximumFractionDigits: 2,
-                                            }).format(
-                                              parseFloat(
-                                                innerPriceListRow.columns[0]
-                                              )
-                                            )}
-                                          </span>
-                                          <span className="font-medium pl-2 sm:pl-5 border-l-[1px] border-blue-800">
-                                            {Intl.NumberFormat("de-DE", {
-                                              minimumFractionDigits: 2,
-                                              maximumFractionDigits: 2,
-                                            }).format(
-                                              parseFloat(
-                                                innerPriceListRow.columns[1]
-                                              )
-                                            )}
-                                          </span>
-                                        </Fragment>
-                                      );
-                                    }
-                                  )}
-                                </div>
-                              );
-                          }
-                        )}
-                        <div className="w-fit grid grid-cols-1 md:grid-cols-[auto_auto] gap-y-3 gap-x-4 sm:gap-x-20 items-start">
-                          {roomType.priceList.map(
-                            (
-                              priceListItem: any,
-                              priceListItemIndex: number
-                            ) => {
-                              if (!priceListItem.innerPriceList) {
-                                return (
-                                  <div
-                                    data-aos="fade-up"
-                                    data-aos-easing="fadeUpCustom"
-                                    key={priceListItemIndex}
-                                    className="grid w-full md:w-auto grid-cols-2 md:grid-cols-[1fr_auto] items-center divide-x-[1px] divide-blue-800"
-                                  >
-                                    <span className="lowercase first-letter:uppercase pr-2 sm:pr-5">
-                                      {priceListItem.text}
-                                    </span>
-                                    <span className="font-medium pl-2 sm:pl-5">
-                                      {Intl.NumberFormat("de-DE", {
-                                        minimumFractionDigits: 2,
-                                        maximumFractionDigits: 2,
-                                      }).format(
-                                        parseFloat(priceListItem.price)
-                                      )}
-                                    </span>
-                                  </div>
-                                );
-                              }
-                            }
-                          )}
-                        </div>
-                      </div>
+
                       <div data-aos="fade-up" data-aos-easing="fadeUpCustom">
                         <p className="text-[15px] italic pt-4 border-t-[1px] border-black max-w-xl">
                           {roomType.tax}
                         </p>
                       </div>
                     </div>
+
                     <div className="w-full mt-8 xl:mt-0 xl:w-1/2 flex flex-col xl:items-end xl:pl-6">
                       <div
                         className="group flex flex-col h-full items-start w-full overflow-hidden max-w-2xl mb-3"
@@ -266,60 +179,98 @@ export default function RoomTypes({ data }: any) {
                           alt="image 1"
                           width={1566}
                           height={1146}
-                          className="w-full h-auto object-cover hover:cursor-pointer transition-transform ease-out duration-300 group-hover:scale-110"
+                          className="-full h-auto object-cover hover:cursor-pointer transition-transform ease-out duration-300 group-hover:scale-110"
                         />
                       </div>
-                      <Swiper
-                        slidesPerView={3}
-                        loop={true}
-                        breakpoints={{ 768: { slidesPerView: 4.3 } }}
-                        autoHeight={true}
-                        spaceBetween={10}
-                        className="w-full max-w-2xl mx-0"
-                      >
-                        {roomType.images.secondaryImages.map(
-                          (
-                            secondaryImage: any,
-                            secondaryImageIndex: number
-                          ) => {
-                            return (
-                              <SwiperSlide
-                                key={secondaryImageIndex}
-                                className=""
-                              >
-                                <div
-                                  className="group flex flex-col h-full items-start w-full overflow-hidden"
-                                  onClick={() => {
-                                    setLightBox({
-                                      focusedImgIndex: secondaryImageIndex + 1,
-                                      imgArray: [
-                                        roomType.images.primaryImage,
-                                        ...roomType.images.secondaryImages,
-                                      ],
-                                    });
-                                  }}
-                                >
-                                  <Image
-                                    data-aos="fade-up"
-                                    data-aos-easing="fadeUpCustom"
-                                    src={secondaryImage}
-                                    alt="image 1"
-                                    width={1566}
-                                    height={1146}
-                                    className="w-full h-auto object-cover hover:cursor-pointer transition-transform ease-out duration-300 group-hover:scale-110"
-                                  />
-                                </div>
-                              </SwiperSlide>
-                            );
-                          }
-                        )}
-                        <div
-                          slot="container-end"
-                          className="absolute right-0 top-0 h-full z-10"
+
+                      {/* OVDE: uslov za prikaz slidera i strelica */}
+                      {totalImagesCount > 5 ? (
+                        <Swiper
+                          slidesPerView={3}
+                          loop={true}
+                          breakpoints={{ 768: { slidesPerView: 4.3 } }}
+                          autoHeight={true}
+                          spaceBetween={10}
+                          className="w-full max-w-2xl mx-0 relative"
                         >
-                          <ImgSliderBtn />
+                          {roomType.images.secondaryImages.map(
+                            (
+                              secondaryImage: any,
+                              secondaryImageIndex: number
+                            ) => {
+                              return (
+                                <SwiperSlide
+                                  key={secondaryImageIndex}
+                                  className=""
+                                >
+                                  <div
+                                    className="group flex flex-col h-full items-start w-full overflow-hidden"
+                                    onClick={() => {
+                                      setLightBox({
+                                        focusedImgIndex:
+                                          secondaryImageIndex + 1,
+                                        imgArray: [
+                                          roomType.images.primaryImage,
+                                          ...roomType.images.secondaryImages,
+                                        ],
+                                      });
+                                    }}
+                                  >
+                                    <Image
+                                      data-aos="fade-up"
+                                      data-aos-easing="fadeUpCustom"
+                                      src={secondaryImage}
+                                      alt="image 1"
+                                      width={1566}
+                                      height={1146}
+                                      className="w-full h-auto object-cover hover:cursor-pointer transition-transform ease-out duration-300 group-hover:scale-110"
+                                    />
+                                  </div>
+                                </SwiperSlide>
+                              );
+                            }
+                          )}
+                          <div
+                            slot="container-end"
+                            className="absolute right-0 top-0 h-full z-10"
+                          >
+                            <ImgSliderBtn />
+                          </div>
+                        </Swiper>
+                      ) : (
+                        // Ako ima 5 ili manje slika, samo statično ih prikaži u redu
+                        <div className="w-full flex justify-start gap-2 max-w-2xl overflow-x-auto">
+                          {/* Prikaz sekundarnih slika bez slidera */}
+                          {roomType.images.secondaryImages.map(
+                            (
+                              secondaryImage: any,
+                              secondaryImageIndex: number
+                            ) => (
+                              <div
+                                key={secondaryImageIndex}
+                                className="flex-shrink-0 w-[95px] cursor-pointer"
+                                onClick={() => {
+                                  setLightBox({
+                                    focusedImgIndex: secondaryImageIndex + 1,
+                                    imgArray: [
+                                      roomType.images.primaryImage,
+                                      ...roomType.images.secondaryImages,
+                                    ],
+                                  });
+                                }}
+                              >
+                                <Image
+                                  src={secondaryImage}
+                                  alt={`image ${secondaryImageIndex + 2}`}
+                                  width={120}
+                                  height={88}
+                                  className="w-full h-auto object-cover hover:scale-110 transition-transform duration-300"
+                                />
+                              </div>
+                            )
+                          )}
                         </div>
-                      </Swiper>
+                      )}
                     </div>
                   </div>
                 </div>

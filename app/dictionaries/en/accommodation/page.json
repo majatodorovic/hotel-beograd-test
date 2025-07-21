@@ -42,7 +42,7 @@
 
   "roomTypes": [
     {
-      "img": "/images/accommodation/room-1.jpg",
+      "img": "/images/accommodation/nova-slika-8.jpg",
       "heading": "Single room",
       "paragraph": "These rooms are ideal for a short stay, whether you are coming to Čačak for business or tourism, and are a frequent choice of business people and individual travelers.",
       "benefits": [
@@ -50,7 +50,7 @@
         "Extra pillow",
         "Daily room cleaning",
         "Information about tourist attractions in the area",
-        "Non-smoking / smoking rooms"
+        "Non-smoking"
       ],
 
       "roomContents": {
@@ -66,39 +66,29 @@
           "Phone"
         ]
       },
-      "priceList": [
-        { "text": "OVERNIGHT WITH BREAKFAST", "price": "4000,00" },
-        { "text": "BREAKFAST", "price": "600,00" },
-        { "text": "HALF BOARD", "price": "4700,00" },
-        { "text": "LUNCH", "price": "700,00" },
-        { "text": "PENSION", "price": "5400,00" },
-        { "text": "DINNER", "price": "700,00" }
-      ],
-      "tax": "Prices are expressed in dinars including VAT. ",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-1.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-8.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg"
+          "/images/accommodation/nova-slika-9.jpg",
+          "/images/accommodation/nova-slika-10.jpg",
+          "/images/accommodation/nova-slika-11.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-2.jpg",
-      "heading": "King Suite",
-      "paragraph": "The synthesis of modern lines and proportionality that exudes the KING apartment, gives a special stamp to our hotel.",
+      "img": "/images/accommodation/nova-slika-12.jpg",
+      "heading": "LUX Suite",
+      "paragraph": "The synthesis of modern lines and proportionality that the LUX apartment radiates gives a unique touchto our hotel. LUX apartment is ideal for all business people who enjoy the blend of the beautiful and the useful.",
       "benefits": [
         "Baby cot on guest's request",
         "Extra pillow",
         "Daily room cleaning",
-        "Information about tourist attractions in the area",
-        "Non-smoking / smoking rooms"
+        "Information about tourist attractions in the area"
       ],
       "roomContents": {
-      "heading": "Room Amenities",
+        "heading": "Room Amenities",
         "items": [
           "Mini Bar",
           "Ironing and laundry",
@@ -110,44 +100,22 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["Apartman", "Extra bed"],
-            "rows": [
-              {
-                "text": "OVERNIGHT WITH BREAKFAST",
-                "columns": ["8600,00", "2600,00"]
-              },
-              {
-                "text": "HALF BOARD",
-                "columns": ["9200,00", "3200,00"]
-              },
-              {
-                "text": "PENSION",
-                "columns": ["9800,00", "3800,00"]
-              }
-            ]
-          }
-        },
-        { "text": "BREAKFAST", "price": "500,00" },
-        { "text": "LUNCH", "price": "600,00" },
-        { "text": "DINNER", "price": "600,00" }
-      ],
-      "tax": "Prices are expressed in dinars including VAT.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-2.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-12.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg"
+          "/images/accommodation/nova-slika-13.jpg",
+          "/images/accommodation/nova-slika-14.jpg",
+          "/images/accommodation/nova-slika-15.jpg",
+          "/images/accommodation/nova-slika-16.jpg",
+          "/images/accommodation/nova-slika-17.jpg",
+           "/images/accommodation/nova-slika-18.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-3.jpg",
+      "img": "/images/accommodation/nova-slika-1.jpg",
       "heading": "Double room",
       "paragraph": "Double rooms represent a perfect harmony of simplicity and functionality.",
       "benefits": [
@@ -155,10 +123,10 @@
         "Extra pillow",
         "Daily room cleaning",
         "Information about tourist attractions in the area",
-        "Non-smoking / smoking rooms"
+        "Non-smoking"
       ],
       "roomContents": {
-     "heading": "Room Amenities",
+        "heading": "Room Amenities",
         "items": [
           "Mini Bar",
           "Ironing and laundry",
@@ -170,28 +138,19 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        { "text": "BED AND BREAKFAST (per person)", "price": "3100,00" },
-        { "text": "BREAKFAST", "price": "600,00" },
-        { "text": "HALF BOARD (per person)", "price": "3800,00" },
-        { "text": "LUNCH", "price": "700,00" },
-        { "text": "BOARDING BOARD (per person)", "price": "3500,00" },
-        { "text": "DINNER", "price": "700,00" }
-      ],
-      "tax": "Prices are expressed in dinars including VAT.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-3.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-1.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg"
+         
+          "/images/accommodation/nova-slika-2.jpg",
+          "/images/accommodation/nova-slika-3.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-4.jpg",
+      "img": "/images/accommodation/nova-slika-4.jpg",
       "heading": "French bed",
       "paragraph": "These rooms are designed according to the needs of the modern traveler, offering work space, constant access to wireless internet and numerous additional facilities.",
       "benefits": [
@@ -199,11 +158,11 @@
         "Extra pillow",
         "Daily room cleaning",
         "Information about tourist attractions in the area",
-        "Non-smoking / smoking rooms"
+        "Non-smoking"
       ],
 
       "roomContents": {
-       "heading": "Room Amenities",
+        "heading": "Room Amenities",
         "items": [
           "Mini Bar",
           "Ironing and laundry",
@@ -215,44 +174,19 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["1/1", "1/2 (per person)"],
-            "rows": [
-              {
-                "text": "OVERNIGHT WITH BREAKFAST",
-                "columns": ["2600,00", "3400,00"]
-              },
-              {
-                "text": "HALF BOARD",
-                "columns": ["3200,00", "4000,00"]
-              },
-              {
-                "text": "PENSION",
-                "columns": ["3800,00", "4600,00"]
-              }
-            ]
-          }
-        },
-        { "text": "BREAKFAST", "price": "500,00" },
-        { "text": "LUNCH", "price": "600,00" },
-        { "text": "DINNER", "price": "600,00" }
-      ],
-      "tax": "Prices are expressed in dinars including VAT.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-4.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-4.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg"
+          "/images/accommodation/nova-slika-5.jpg",
+          "/images/accommodation/nova-slika-6.jpg",
+          "/images/accommodation/nova-slika-7.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-5.jpg",
+      "img": "/images/accommodation/nova-slika-20.jpg",
       "heading": "Triple room",
       "paragraph": "The perfect choice for trips of different groups - from families and friends to business groups and sports teams.",
       "benefits": [
@@ -260,10 +194,10 @@
         "Extra pillow",
         "Daily room cleaning",
         "Information about tourist attractions in the area",
-        "Non-smoking / smoking rooms"
+        "Non-smoking"
       ],
       "roomContents": {
-       "heading": "Room Amenities",
+        "heading": "Room Amenities",
         "items": [
           "Mini Bar",
           "Ironing and laundry",
@@ -275,26 +209,15 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        { "text": "BED AND BREAKFAST (per person)", "price": "2600,00" },
-        { "text": "BREAKFAST", "price": "500,00" },
-        { "text": "HALF BOARD (per person)", "price": "3200,00" },
-        { "text": "LUNCH", "price": "600,00" },
-        { "text": "BOARDING BOARD (per person)", "price": "3800,00" },
-        { "text": "DINNER", "price": "600,00" }
-      ],
-      "tax": "Prices are expressed in dinars including VAT.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-5.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-20.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg"
+        "/images/accommodation/nova-slika-21.jpg",
+          "/images/accommodation/nova-slika-22.jpg"
         ]
       }
     }
-  
   ]
 }

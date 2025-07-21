@@ -1,10 +1,10 @@
 {
-  "title": "Galerija - Hotel Beograd",
-  "description": "Pogledajte galeriju slika i otkrijte u kakvom ambijentu možete uživati tokom boravka u Hotelu Beograd",
+  "title": "Galerija - Hotel \"Beograd\"",
+  "description": "Pogledajte galeriju slika i otkrijte u kakvom ambijentu možete uživati tokom boravka u hotelu \"Beograd\"",
   "icons": "/images/favicon.ico",
   "openGraph": {
-    "title": "Galerija - Hotel Beograd",
-    "description": "Pogledajte galeriju slika i otkrijte u kakvom ambijentu možete uživati tokom boravka u Hotelu Beograd",
+    "title": "Galerija - Hotel \"Beograd\"",
+    "description": "Pogledajte galeriju slika i otkrijte u kakvom ambijentu možete uživati tokom boravka u hotelu \"Beograd\"",
     "images": [
       {
         "url": "/images/gallery/intro-image.jpg",

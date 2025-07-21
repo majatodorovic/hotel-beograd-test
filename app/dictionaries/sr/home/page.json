@@ -2,12 +2,12 @@
   "intro": {
     "img": "/images/home/about-us.jpg",
     "videoLink": "https://www.youtube.com/channel/UCaiv4_stpgN-375NGhXRaqA",
-    "subheading": "DOBRODOŠLI U HOTEL BEOGRAD",
+    "subheading": "DOBRODOŠLI U HOTEL \"BEOGRAD\"",
     "heading": "Otmenost u srcu Čačka",
     "paragraphs": [
-      "Hotel Beograd ponosno stoji u centru Čačka, smešten na gradskom šetalištu, gde spoj tradicije i elegancije očarava svakog posetioca. Njegova arhitektura, u duhu ornamentalne moderne (Art Nouveau), odiše prefinjenošću i autentičnošću.",
-      "Osnovan od strane Stevana Krena, hotel je kroz decenije sačuvao svoj izvorni sjaj i postao jedan od prepoznatljivih simbola grada. Njegova bogata istorija, koja traje već čitav vek, potvrđuje njegov značaj – toliko da se danas nalazi pod zaštitom Spomenika kulture Republike Srbije.",
-      "Autentičan ambijent i jedinstvena atmosfera Hotela Beograd ostavljaju snažan utisak na svakog gosta, pružajući doživljaj prošlih vremena u modernom ruhu."
+      "Hotel \"Beograd\" ponosno stoji u centru Čačka, smešten na gradskom šetalištu, gde spoj tradicije i elegancije očarava svakog posetioca. Njegova arhitektura, u duhu ornamentalne moderne (Art Nouveau), odiše prefinjenošću i autentičnošću.",
+      "Osnovan od strane Stevana Krena, hotel je kroz decenije sačuvao svoj izvorni sjaj i postao jedan od prepoznatljivih simbola grada. Njegova bogata istorija, koja traje već 125 godina, potvrđuje njegov značaj – toliko da se danas nalazi pod zaštitom Spomenika kulture Republike Srbije.",
+      "Autentičan ambijent i jedinstvena atmosfera hotela \"Beograd\" ostavljaju snažan utisak na svakog gosta, pružajući doživljaj prošlih vremena u modernom ruhu."
     ],
     "benefits": [
       { "icon": "/images/home/tray.png", "text": "Restoran" },
@@ -20,9 +20,9 @@
     }
   },
   "accommodation": {
-    "subheading": "SMEŠTAJ HOTELA BEOGRAD",
+    "subheading": "SMEŠTAJ HOTELA \"BEOGRAD\"",
     "heading": "Doživite ambijent koji zrači jedinstvenom elegancijom",
-    "p": "Bez obzira da li ste u Čačku zbog poslovnog sastanka, konferencije, odmora ili samo slučajnog prolaska, u Hotelu Beograd vam pružamo mirnu i inspirativnu atmosferu idealnu za rad i opuštanje. Garantujemo vam prijatan boravak, jer je vaša udobnost naš prioritet.",
+    "p": "Bez obzira da li ste u Čačku zbog poslovnog sastanka, konferencije, odmora ili samo slučajnog prolaska, u hotelu \"Beograd\" vam pružamo mirnu i inspirativnu atmosferu idealnu za rad i opuštanje. Garantujemo vam prijatan boravak, jer je vaša udobnost naš prioritet.",
     "slides": [
       {
         "img": "/images/home/room-1.jpg",
@@ -52,7 +52,7 @@
     ]
   },
   "benefits": {
-    "subheading": "Pogodnosti hotela Beograd",
+    "subheading": "Pogodnosti hotela \"BEOGRAD\"",
     "heading": "Prednosti koje izdvajamo",
     "list": [
       {
@@ -88,10 +88,10 @@
     ]
   },
   "restaurant": {
-    "subheading": "RESTORAN HOTELA BEOGRAD",
+    "subheading": "RESTORAN HOTELA \"BEOGRAD\"",
     "heading": "Uživajte u gastronomskoj ponudi našeg restorana",
     "paragraphs": [
-      "U okviru Hotela Beograd nalazi se savremeno opremljen restoran sa kapacitetom od 120 mesta, koji nudi pažljivo odabranu ponudu jela nacionalne i internacionalne kuhinje. Svako jelo je pripremljeno sa velikom pažnjom i veštinom naših iskusnih kuvara. Kao naš gost, uživaćete u posebnoj usluzi i ekskluzivnim popustima za usluge u objektima brenda UTP Morava DOO."
+      "U okviru hotela \"Beograd\" nalazi se savremeno opremljen restoran sa kapacitetom od 120 mesta, koji nudi pažljivo odabranu ponudu jela nacionalne i internacionalne kuhinje. Svako jelo je pripremljeno sa velikom pažnjom i veštinom naših iskusnih kuvara. Kao naš gost, uživaćete u posebnoj usluzi i ekskluzivnim popustima za usluge u objektima brenda UTP Morava DOO."
     ]
   },
   "art": {

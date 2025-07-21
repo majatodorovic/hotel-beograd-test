@@ -42,7 +42,7 @@
 
   "roomTypes": [
     {
-      "img": "/images/accommodation/room-1.jpg",
+      "img": "/images/accommodation/nova-slika-8.jpg",
       "heading": "Jednokrevetna soba",
       "paragraph": "Ove sobe su idealne za kraći boravak, bilo da dolazite poslovno ili turistički u Čačak, te predstavljaju čest izbor poslovnih ljudi i individualnih putnika. Dizajnirane po visokim hotelskim standardima, opremljene su udobnim krevetom, prostranim kupatilom i svim potrebnim sadržajima za miran i prijatan boravak.",
       "benefits": [
@@ -50,7 +50,7 @@
         "Dodatni jastuk",
         "Dnevno pospremanje soba",
         "Informacije o turističkim sadržajima okoline",
-        "Sobe za nepušače / pušače"
+        "Sobe za nepušače"
       ],
 
       "roomContents": {
@@ -66,36 +66,26 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        { "text": "NOĆENJE SA DORUČKOM", "price": "4000,00" },
-        { "text": "DORUČAK", "price": "600,00" },
-        { "text": "POLUPANSION", "price": "4700,00" },
-        { "text": "RUČAK", "price": "700,00" },
-        { "text": "PANSION", "price": "5400,00" },
-        { "text": "VEČERA", "price": "700,00" }
-      ],
-      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (110,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-1.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-8.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg",
-          "/images/accommodation/room-1.jpg"
+          "/images/accommodation/nova-slika-9.jpg",
+          "/images/accommodation/nova-slika-10.jpg",
+          "/images/accommodation/nova-slika-11.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-2.jpg",
-      "heading": "King Apartman",
-      "paragraph": "Sinteza modernih linija i proporcionalnosti kojima odiše KING apartman, daje poseban pečat našem hotelu. KING apartman je idealan za sve poslovne ljude koji uživaju u spoju lepog i korisnog.",
+      "img": "/images/accommodation/nova-slika-12.jpg",
+      "heading": "LUX Apartman",
+      "paragraph": "Sinteza modernih linija i proporcionalnosti kojima odiše LUX apartman, daje poseban pečat našem hotelu. LUX apartman je idealan za sve poslovne ljude koji uživaju u spoju lepog i korisnog.",
       "benefits": [
         "Dečiji krevetac na zahtev gosta",
         "Dodatni jastuk",
         "Dnevno pospremanje soba",
-        "Informacije o turističkim sadržajima okoline",
-        "Sobe za nepušače / pušače"
+        "Informacije o turističkim sadržajima okoline"
       ],
       "roomContents": {
         "heading": "Sadržaj sobe",
@@ -110,44 +100,22 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["Apartman", "Dodatni ležaj"],
-            "rows": [
-              {
-                "text": "NOĆENJE SA DORUČKOM",
-                "columns": ["8600,00", "2600,00"]
-              },
-              {
-                "text": "POLUPANSION",
-                "columns": ["9200,00", "3200,00"]
-              },
-              {
-                "text": "PANSION",
-                "columns": ["9800,00", "3800,00"]
-              }
-            ]
-          }
-        },
-        { "text": "DORUČAK", "price": "500,00" },
-        { "text": "RUČAK", "price": "600,00" },
-        { "text": "VEČERA", "price": "600,00" }
-      ],
-      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-2.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-12.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg",
-          "/images/accommodation/room-2.jpg"
+          "/images/accommodation/nova-slika-13.jpg",
+          "/images/accommodation/nova-slika-14.jpg",
+          "/images/accommodation/nova-slika-15.jpg",
+          "/images/accommodation/nova-slika-16.jpg",
+          "/images/accommodation/nova-slika-17.jpg",
+           "/images/accommodation/nova-slika-18.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-3.jpg",
+      "img": "/images/accommodation/nova-slika-1.jpg",
       "heading": "Dvokrevetna soba",
       "paragraph": "Dvokrevetne sobe predstavljaju savršenu harmoniju jednostavnosti i funkcionalnosti. Ističu se prostranošću, udobnošću i prefinjenim dizajnom, pružajući gostima istinsko i nezaboravno iskustvo boravka.",
       "benefits": [
@@ -155,7 +123,7 @@
         "Dodatni jastuk",
         "Dnevno pospremanje soba",
         "Informacije o turističkim sadržajima okoline",
-        "Sobe za nepušače / pušače"
+        "Sobe za nepušače"
       ],
       "roomContents": {
         "heading": "Sadržaj sobe",
@@ -170,28 +138,18 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        { "text": "NOĆENJE SA DORUČKOM (po osobi)", "price": "3100,00" },
-        { "text": "DORUČAK", "price": "600,00" },
-        { "text": "POLUPANSION (po osobi)", "price": "3800,00" },
-        { "text": "RUČAK", "price": "700,00" },
-        { "text": "PANSION (po osobi)", "price": "3500,00" },
-        { "text": "VEČERA", "price": "700,00" }
-      ],
-      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (110,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-3.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-1.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg",
-          "/images/accommodation/room-3.jpg"
+          "/images/accommodation/nova-slika-2.jpg",
+          "/images/accommodation/nova-slika-3.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-4.jpg",
+      "img": "/images/accommodation/nova-slika-4.jpg",
       "heading": "Francuski ležaj",
       "paragraph": "Ove sobe su osmišljene prema potrebama savremenog putnika, nudeći radni prostor, stalni pristup bežičnom internetu i brojne dodatne sadržaje. Bilo da putujete sami ili u paru, ovaj tip smeštaja obezbeđuje vam optimalan komfor i udobnost za prijatan boravak.",
       "benefits": [
@@ -199,7 +157,7 @@
         "Dodatni jastuk",
         "Dnevno pospremanje soba",
         "Informacije o turističkim sadržajima okoline",
-        "Sobe za nepušače / pušače"
+        "Sobe za nepušače"
       ],
 
       "roomContents": {
@@ -215,44 +173,19 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        {
-          "innerPriceList": {
-            "columnHeadings": ["1/1", "1/2 (po osobi)"],
-            "rows": [
-              {
-                "text": "NOĆENJE SA DORUČKOM",
-                "columns": ["2600,00", "3400,00"]
-              },
-              {
-                "text": "POLUPANSION",
-                "columns": ["3200,00", "4000,00"]
-              },
-              {
-                "text": "PANSION",
-                "columns": ["3800,00", "4600,00"]
-              }
-            ]
-          }
-        },
-        { "text": "DORUČAK", "price": "500,00" },
-        { "text": "RUČAK", "price": "600,00" },
-        { "text": "VEČERA", "price": "600,00" }
-      ],
-      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-4.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-4.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg",
-          "/images/accommodation/room-4.jpg"
+          "/images/accommodation/nova-slika-5.jpg",
+          "/images/accommodation/nova-slika-6.jpg",
+          "/images/accommodation/nova-slika-7.jpg"
         ]
       }
     },
     {
-      "img": "/images/accommodation/room-5.jpg",
+      "img": "/images/accommodation/nova-slika-20.jpg",
       "heading": "Trokrevetna soba",
       "paragraph": "Savršen izbor za putovanja različitih grupa – od porodica i prijatelja do poslovnih kolektiva i sportskih ekipa. Ove sobe pružaju dovoljno prostora i udobnosti za opušten i prijatan boravak, omogućavajući svima da se osećaju kao kod kuće.",
       "benefits": [
@@ -260,7 +193,7 @@
         "Dodatni jastuk",
         "Dnevno pospremanje soba",
         "Informacije o turističkim sadržajima okoline",
-        "Sobe za nepušače / pušače"
+        "Sobe za nepušače"
       ],
       "roomContents": {
         "heading": "Sadržaj sobe",
@@ -275,23 +208,13 @@
           "Telefon"
         ]
       },
-      "priceList": [
-        { "text": "NOĆENJE SA DORUČKOM (po osobi)", "price": "2600,00" },
-        { "text": "DORUČAK", "price": "500,00" },
-        { "text": "POLUPANSION (po osobi)", "price": "3200,00" },
-        { "text": "RUČAK", "price": "600,00" },
-        { "text": "PANSION (po osobi)", "price": "3800,00" },
-        { "text": "VEČERA", "price": "600,00" }
-      ],
-      "tax": "Cene su izražene u dinarima sa uračunatim iznosom PDV. Boravišna taksa (95,00 RSD) i osiguranje (15,00 RSD) nisu uračunate u cenu.",
+
+      "tax": "",
       "images": {
-        "primaryImage": "/images/accommodation/room-5.jpg",
+        "primaryImage": "/images/accommodation/nova-slika-20.jpg",
         "secondaryImages": [
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg",
-          "/images/accommodation/room-5.jpg"
+          "/images/accommodation/nova-slika-21.jpg",
+          "/images/accommodation/nova-slika-22.jpg"
         ]
       }
     }

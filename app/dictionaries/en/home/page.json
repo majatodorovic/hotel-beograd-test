@@ -2,12 +2,12 @@
   "intro": {
     "img": "/images/home/about-us.jpg",
     "videoLink": "https://www.youtube.com/channel/UCaiv4_stpgN-375NGhXRaqA",
-    "subheading": "WELCOME TO HOTEL BEOGRAD",
+    "subheading": "WELCOME TO HOTEL  \"BEOGRAD\"",
     "heading": "Elegance in the heart of Čačak",
     "paragraphs": [
-      "Hotel Beograd proudly stands in the center of Čačak, located on the city promenade, where the blend of tradition and elegance captivates every visitor. Its architecture, in the spirit of ornamental modernism (Art Nouveau), exudes sophistication and authenticity.",
-      "Founded by Stevan Kren, the hotel has maintained its original shine through the decades and has become one of the most recognizable symbols of the city. Its rich history, which has lasted an entire century, confirms its significance – so much so that it is now under the protection of the Cultural Monument of the Republic of Serbia.",
-      "The authentic ambiance and unique atmosphere of Hotel Beograd leave a strong impression on every guest, offering an experience of the past in a modern guise."
+      "Hotel  \"Beograd\" proudly stands in the center of Čačak, located on the city promenade, where the blend of tradition and elegance captivates every visitor. Its architecture, in the spirit of ornamental modernism (Art Nouveau), exudes sophistication and authenticity.",
+      "Founded by Stevan Kren, the hotel has maintained its original shine through the decades and has become one of the most recognizable symbols of the city. Its rich history, which has lasted 125 years, confirms its significance – so much so that it is now under the protection of the Cultural Monument of the Republic of Serbia.",
+      "The authentic ambiance and unique atmosphere of hotel  \"Beograd\" leave a strong impression on every guest, offering an experience of the past in a modern guise."
     ],
     "benefits": [
       { "icon": "/images/home/tray.png", "text": "Restaurant" },
@@ -20,9 +20,9 @@
     }
   },
   "accommodation": {
-    "subheading": "ACCOMMODATION HOTEL BEOGRAD",
+    "subheading": "ACCOMMODATION HOTEL \"BEOGRAD\"",
     "heading": "Experience the ambiance that radiates unique elegance",
-    "p": "Whether you are in Čačak for a business meeting, conference, vacation, or just passing through, at Hotel Beograd we offer a peaceful and inspiring atmosphere perfect for both work and relaxation. We guarantee you a pleasant stay, as your comfort is our priority.",
+    "p": "Whether you are in Čačak for a business meeting, conference, vacation, or just passing through, at hotel \"Beograd\" we offer a peaceful and inspiring atmosphere perfect for both work and relaxation. We guarantee you a pleasant stay, as your comfort is our priority.",
     "slides": [
       {
         "img": "/images/home/room-1.jpg",
@@ -52,7 +52,7 @@
     ]
   },
   "benefits": {
-    "subheading": "Facilities of Hotel Beograd",
+    "subheading": "Facilities of Hotel \"BEOGRAD\"",
     "heading": "Advantages that set us apart",
     "list": [
       {
@@ -88,10 +88,10 @@
     ]
   },
   "restaurant": {
-    "subheading": "HOTEL BEOGRAD RESTAURANT",
+    "subheading": "HOTEL \"BEOGRAD\" RESTAURANT",
     "heading": "Enjoy the gastronomic offerings of our restaurant",
     "paragraphs": [
-      "Hotel Beograd features a modernly equipped restaurant with a capacity of 120 seats, offering a carefully selected menu of national and international cuisine. Every dish is prepared with great care and skill by our experienced chefs. As our guest, you will enjoy special service and exclusive discounts for services at UTP Morava DOO brand properties."
+      "Hotel \"Beograd\" features a modernly equipped restaurant with a capacity of 120 seats, offering a carefully selected menu of national and international cuisine. Every dish is prepared with great care and skill by our experienced chefs. As our guest, you will enjoy special service and exclusive discounts for services at UTP Morava DOO brand properties."
     ]
   },
   "art": {

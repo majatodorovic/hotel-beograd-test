@@ -1,10 +1,10 @@
 {
-  "title": "Gallery - Hotel Beograd",
-  "description": "Browse the image gallery and discover the ambiance you can enjoy during your stay at Hotel Beograd",
+  "title": "Gallery - Hotel \"Beograd\"",
+  "description": "Browse the image gallery and discover the ambiance you can enjoy during your stay at Hotel \"Beograd\"",
   "icons": "/images/favicon.ico",
   "openGraph": {
-    "title": "Gallery - Hotel Beograd",
-    "description": "Browse the image gallery and discover the ambiance you can enjoy during your stay at Hotel Beograd",
+    "title": "Gallery - Hotel \"Beograd\"",
+    "description": "Browse the image gallery and discover the ambiance you can enjoy during your stay at Hotel \"Beograd\"",
     "images": [
       {
         "url": "/images/gallery/intro-image.jpg",
